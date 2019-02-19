@@ -3,9 +3,11 @@
 //
 // Run the program:
 //
-// > nodejs engine.js inputFile outputFile hyph
+// > node engine.js templateFile outputFile hyph
 //
-// inputFile: The HTML template
+// (use nodejs command on Linux)
+//
+// templateFile: The HTML template
 // outputFile: The finished HTML file (to be used as index.html)
 // hyph: Optional. Include this to activate ultra hyphenation
 
