@@ -1,0 +1,46 @@
+{
+    "completeArchives": [
+        {
+            "text": "Flickr",
+            "link": "https://www.flickr.com/photos/nb-ssal/albums"
+        },
+        {
+            "text": "Vimeo",
+            "link": "https://vimeo.com/nbssal"
+        },
+        {
+            "text": "YouTube",
+            "link": "https://www.youtube.com/channel/UCHqQCMjZtPzym0AsfIFQjwQ"
+        }        
+    ],
+    "photoGallery": [
+        {
+            "text": "Album Covers",
+            "link": "https://www.flickr.com/photos/nb-ssal/sets/72157649517676413"
+        },
+        {
+            "text": "Recent Events",
+            "link": "https://www.flickr.com/photos/nb-ssal/collections/72157660052471158"
+        },
+        {
+            "text": "SSAL Mobile Multi-Channel Electroacoustic Diffusion System",
+            "link": "https://www.flickr.com/photos/nb-ssal/collections/72157660052471158"
+        },
+        {
+            "text": "SSAL Recording Studio",
+            "link": "https://www.flickr.com/photos/nb-ssal/sets/72157652184221264"
+        } 
+    ],
+    "videoGallery": [
+        {
+            "text": "A/V Projects",
+            "link": "https://vimeo.com/album/3320387"
+        }        
+    ],
+    "pressImages": [
+        {
+            "text": "Album Covers",
+            "link": "https://www.dropbox.com/sh/jcf8c0izvs75uor/AACdCvayT0Fu6FVaDlAmhEqQa?dl=0"
+        }        
+    ]
+}

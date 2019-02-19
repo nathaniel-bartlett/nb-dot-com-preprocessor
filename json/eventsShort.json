@@ -1,0 +1,1148 @@
+{
+    "eventsShort": [
+        {
+            "date": ["8/10/2013"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "University of Wisconsin–Madison"
+        },
+        {
+            "date": ["6/20/2013"],
+            "city": "Asbury Park",
+            "state": "NJ",
+            "venue": "LHS Marimba Seminar"
+        },
+        {
+            "date": ["6/19/2013"],
+            "city": "Ocean Grove",
+            "state": "NJ",
+            "venue": "LHS Marimba Seminar"
+        },
+        {
+            "date": ["3/17/2013"],
+            "city": "Stevens Point",
+            "state": "WI",
+            "venue": "University of Wisconsin–Stevens Point"
+        },
+        {
+            "date": ["3/16/2013"],
+            "city": "Stevens Point",
+            "state": "WI",
+            "venue": "University of Wisconsin–Stevens Point"
+        },
+        {
+            "date": ["2/23/2013"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["1/11/2013", "2/24/2013"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "James Watrous Gallery"
+        },
+        {
+            "date": ["11/16/2012", "3/1/2013"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Town Center at the Wisconsin Institutes for Discovery"
+        },
+        {
+            "date": ["11/16/2012"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Town Center at the Wisconsin Institutes for Discovery"
+        },
+        {
+            "date": ["11/6/2012"],
+            "city": "Tulsa",
+            "state": "OK",
+            "venue": "Living Arts"
+        },
+        {
+            "date": ["11/3/2012"],
+            "city": "Austin",
+            "state": "TX",
+            "venue": "Percussive Arts Society International Convention"
+        },
+        {
+            "date": ["10/28/2012"],
+            "city": "Flagstaff",
+            "state": "AZ",
+            "venue": "Northern Arizona University"
+        },
+        {
+            "date": ["10/26/2012"],
+            "city": "Tucson",
+            "state": "AZ",
+            "venue": "University of Arizona"
+        },
+        {
+            "date": ["10/25/2012"],
+            "city": "Phoenix",
+            "state": "AZ",
+            "venue": "The Icehouse"
+        },
+        {
+            "date": ["10/2/2012"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Town Center at the Wisconsin Institutes for Discovery"
+        },
+        {
+            "date": ["9/29/2012"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["8/30/2012"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["4/9/2012"],
+            "city": "Manhattan",
+            "state": "KS",
+            "venue": "Kansas State University"
+        },
+        {
+            "date": ["4/1/2012"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["3/10/2012"],
+            "city": "Ithaca",
+            "state": "NY",
+            "venue": "Ithaca College"
+        },
+        {
+            "date": ["11/1/2011"],
+            "city": "New York",
+            "state": "NY",
+            "venue": "Danspace Project"
+        },
+        {
+            "date": ["10/31/2011"],
+            "city": "New York",
+            "state": "NY",
+            "venue": "Danspace Project"
+        },
+        {
+            "date": ["10/29/2011"],
+            "city": "New York",
+            "state": "NY",
+            "venue": "Danspace Project"
+        },
+        {
+            "date": ["10/14/2011"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["10/3/2011"],
+            "city": "Wayne",
+            "state": "NJ",
+            "venue": "William Patterson University"
+        },
+        {
+            "date": ["10/2/2011"],
+            "city": "West Chester",
+            "state": "PA",
+            "venue": "William Patterson University"
+        },
+        {
+            "date": ["6/18/2011"],
+            "city": "Asbury Park",
+            "state": "NJ",
+            "venue": "LHS Marimba Seminar"
+        },
+        {
+            "date": ["6/17/2011"],
+            "city": "Ocean Grove",
+            "state": "NJ",
+            "venue": "LHS Marimba Seminar"
+        },
+        {
+            "date": ["5/8/2011"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["4/7/2011"],
+            "city": "Pittsburgh",
+            "state": "PA",
+            "venue": "Robert Morris University"
+        },
+        {
+            "date": ["3/5/2011"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "University of Wisconsin–Madison"
+        },
+        {
+            "date": ["3/5/2011"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "University of Wisconsin–Madison"
+        },
+        {
+            "date": ["12/15/2010"],
+            "city": "New York",
+            "state": "NY",
+            "venue": "Judson Memorial Church"
+        },
+        {
+            "date": ["12/14/2010"],
+            "city": "New York",
+            "state": "NY",
+            "venue": "Judson Memorial Church"
+        },
+        {
+            "date": ["12/10/2010"],
+            "city": "Columbus",
+            "state": "OH",
+            "venue": "The Fuse Factory"
+        },
+        {
+            "date": ["11/6/2010"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["9/20/2010"],
+            "city": "Atlanta",
+            "state": "GA",
+            "venue": "Georgia Institute of Technology"
+        },
+        {
+            "date": ["9/17/2010"],
+            "city": "Orlando",
+            "state": "FL",
+            "venue": "University of Central Florida"
+        },
+        {
+            "date": ["9/14/2010"],
+            "city": "Tallahassee",
+            "state": "FL",
+            "venue": "Florida State University"
+        },
+        {
+            "date": ["9/13/2010"],
+            "city": "Atlanta",
+            "state": "GA",
+            "venue": "Eyedrum"
+        },
+        {
+            "date": ["9/12/2010"],
+            "city": "Athens",
+            "state": "GA",
+            "venue": "Athens Institute for Contemporary Art"
+        },
+        {
+            "date": ["9/9/2010"],
+            "city": "Lexington",
+            "state": "KY",
+            "venue": "University of Kentucky"
+        },
+        {
+            "date": ["5/28/2010"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["5/7/2010"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Higher Fire Gallery Annex"
+        },
+        {
+            "date": ["2/27/2010"],
+            "city": "Greenville",
+            "state": "NC",
+            "venue": "East Carolina University"
+        },
+        {
+            "date": ["2/26/2010"],
+            "city": "Greenville",
+            "state": "NC",
+            "venue": "East Carolina University"
+        },
+        {
+            "date": ["2/7/2010"],
+            "city": "Kirksville",
+            "state": "MO",
+            "venue": "Truman State University"
+        },
+        {
+            "date": ["2/6/2010"],
+            "city": "Kirksville",
+            "state": "MO",
+            "venue": "Truman State University"
+        },
+        {
+            "date": ["1/30/2010"],
+            "city": "Santa Fe",
+            "state": "NM",
+            "venue": "The Santa Fe Complex"
+        },
+        {
+            "date": ["1/29/2010"],
+            "city": "Flagstaff",
+            "state": "AZ",
+            "venue": "Northern Arizona University"
+        },
+        {
+            "date": ["1/26/2010"],
+            "city": "Albuquerque",
+            "state": "NM",
+            "venue": "University of New Mexico"
+        },
+        {
+            "date": ["1/25/2010"],
+            "city": "Las Cruces",
+            "state": "NM",
+            "venue": "New Mexico State University"
+        },
+        {
+            "date": ["1/20/2010"],
+            "city": "Arlington",
+            "state": "TX",
+            "venue": "University of Texas at Arlington"
+        },
+        {
+            "date": ["1/19/2010"],
+            "city": "Conway",
+            "state": "AR",
+            "venue": "University of Central Arkansas"
+        },
+        {
+            "date": ["1/17/2010"],
+            "city": "Tulsa",
+            "state": "OK",
+            "venue": "Living Arts"
+        },
+        {
+            "date": ["12/11/2009"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["11/14/2009"],
+            "city": "Indianapolis",
+            "state": "IN",
+            "venue": "Percussive Arts Society International Convention"
+        },
+        {
+            "date": ["10/2/2009"],
+            "city": "Rochester",
+            "state": "NY",
+            "venue": "Eastman School of Music"
+        },
+        {
+            "date": ["10/1/2009"],
+            "city": "Rochester",
+            "state": "NY",
+            "venue": "Eastman School of Music"
+        },
+        {
+            "date": ["9/5/2009"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["7/15/2009"],
+            "city": "Atlanta",
+            "state": "GA",
+            "venue": "Eyedrum"
+        },
+        {
+            "date": ["7/10/2009"],
+            "city": "Somerville",
+            "state": "MA",
+            "venue": "Third Life Studio"
+        },
+        {
+            "date": ["7/8/2009"],
+            "city": "Pittsburgh",
+            "state": "PA",
+            "venue": "The Brew House"
+        },
+        {
+            "date": ["6/13/2009"],
+            "city": "Santa Ana",
+            "state": "CA",
+            "venue": "Orange County Center for Contemporary Art"
+        },
+        {
+            "date": ["6/9/2009"],
+            "city": "Tucson",
+            "state": "AZ",
+            "venue": "Solar Culture"
+        },
+        {
+            "date": ["6/7/2009"],
+            "city": "Albuquerque",
+            "state": "NM",
+            "venue": "University of New Mexico"
+        },
+        {
+            "date": ["6/4/2009"],
+            "city": "Houston",
+            "state": "TX",
+            "venue": "Super Happy Fun Land"
+        },
+        {
+            "date": ["5/29/2009"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["4/19/2009"],
+            "city": "Syracuse",
+            "state": "NY",
+            "venue": "Onondaga Community College"
+        },
+        {
+            "date": ["4/19/2009"],
+            "city": "Whitewater",
+            "state": "WI",
+            "venue": "University of Wisconsin–Whitewater"
+        },
+        {
+            "date": ["3/1/2009"],
+            "city": "Minneapolis",
+            "state": "MN",
+            "venue": "Center for Independent Artists"
+        },
+        {
+            "date": ["12/20/2008"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Capitol Lakes Grand Hall"
+        },
+        {
+            "date": ["12/4/2008"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["11/20/2008"],
+            "city": "East Lansing",
+            "state": "MI",
+            "venue": "SCENE Metrospace"
+        },
+        {
+            "date": ["11/15/2008"],
+            "city": "Austin",
+            "state": "TX",
+            "venue": "Mexican American Cultural Center (New Music Coop)"
+        },
+        {
+            "date": ["11/14/2008"],
+            "city": "Austin",
+            "state": "TX",
+            "venue": "Mexican American Cultural Center (New Music Coop)"
+        },
+        {
+            "date": ["11/12/2008"],
+            "city": "St. Louis",
+            "state": "MO",
+            "venue": "Lemp Neighborhood Arts Center"
+        },
+        {
+            "date": ["10/11/2008"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["9/21/2008"],
+            "city": "Lansing",
+            "state": "MI",
+            "venue": "Lansing Community College"
+        },
+        {
+            "date": ["9/19/2008"],
+            "city": "Indianapolis",
+            "state": "IN",
+            "venue": "Indianapolis Art Center"
+        },
+        {
+            "date": ["9/7/2008"],
+            "city": "Spring Green",
+            "state": "WI",
+            "venue": "Taliesin Hillside Theater"
+        },
+        {
+            "date": ["8/21/2008"],
+            "city": "Pittsburgh",
+            "state": "PA",
+            "venue": "Mattress Factory"
+        },
+        {
+            "date": ["6/18/2008"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["5/24/2008"],
+            "city": "Dallas",
+            "state": "TX",
+            "venue": "Gallery 1308"
+        },
+        {
+            "date": ["5/21/2008"],
+            "city": "Houston",
+            "state": "TX",
+            "venue": "Nutsuoh"
+        },
+        {
+            "date": ["5/21/2008"],
+            "city": "St. Louis",
+            "state": "MO",
+            "venue": "Lemp Neighborhood Arts Center"
+        },
+        {
+            "date": ["4/27/2008"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["4/26/2008"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "University of Wisconsin–Madison"
+        },
+        {
+            "date": ["3/21/2008"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "Mascher Space Cooperative"
+        },
+        {
+            "date": ["3/20/2008"],
+            "city": "New Bedford",
+            "state": "MA",
+            "venue": "Gallery X"
+        },
+        {
+            "date": ["3/19/2008"],
+            "city": "Somerville",
+            "state": "MA",
+            "venue": "Third Life Studio"
+        },
+        {
+            "date": ["3/28/2008"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "Philadelphia Ethical Society"
+        },
+        {
+            "date": ["1/20/2008"],
+            "city": "Manhattan",
+            "state": "KS",
+            "venue": "Kansas State University"
+        },
+        {
+            "date": ["1/18/2008"],
+            "city": "Austin",
+            "state": "TX",
+            "venue": "Austin Museum of Digital Art"
+        },
+        {
+            "date": ["1/14/2008"],
+            "city": "Berkeley",
+            "state": "CA",
+            "venue": "Center for New Music and Technology"
+        },
+        {
+            "date": ["1/13/2008"],
+            "city": "Los Angeles",
+            "state": "CA",
+            "venue": "Dangerous Curve"
+        },
+        {
+            "date": ["1/11/2008"],
+            "city": "Scottsdale",
+            "state": "AZ",
+            "venue": "Taliesin West"
+        },
+        {
+            "date": ["1/7/2008"],
+            "city": "Houston",
+            "state": "TX",
+            "venue": "Super Happy Fun Land"
+        },
+        {
+            "date": ["1/5/2008"],
+            "city": "Oklahoma City",
+            "state": "OK",
+            "venue": "Individual Artists of Oklahoma Gallery"
+        },
+        {
+            "date": ["12/15/2007"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Overture Center for the Arts"
+        },
+        {
+            "date": ["11/17/2007"],
+            "city": "East Lansing",
+            "state": "MI",
+            "venue": "SCENE Metrospace"
+        },
+        {
+            "date": ["11/16/2007"],
+            "city": "Ann Arbor",
+            "state": "MI",
+            "venue": "Canterbury House"
+        },
+        {
+            "date": ["11/11/2007"],
+            "city": "Durham",
+            "state": "NH",
+            "venue": "University of New Hampshire"
+        },
+        {
+            "date": ["11/3/2007"],
+            "city": "Marshfield",
+            "state": "WI",
+            "venue": "Chestnut Avenue Center for the Arts"
+        },
+        {
+            "date": ["10/20/2007"],
+            "city": "Sturgeon Bay",
+            "state": "WI",
+            "venue": "Fairfield Center for Contemporary Art"
+        },
+        {
+            "date": ["9/22/2007"],
+            "city": "Spring Green",
+            "state": "WI",
+            "venue": "Taliesin Hillside Theater"
+        },
+        {
+            "date": ["9/21/2007"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Capitol Lakes Grand Hall"
+        },
+        {
+            "date": ["9/15/2007"],
+            "city": "St. Paul",
+            "state": "MN",
+            "venue": "Studio Z"
+        },
+        {
+            "date": ["9/8/2007"],
+            "city": "Milwaukee",
+            "state": "WI",
+            "venue": "Hotcakes"
+        },
+        {
+            "date": ["6/23/2007"],
+            "city": "Providence",
+            "state": "RI",
+            "venue": "AS220"
+        },
+        {
+            "date": ["6/21/2007"],
+            "city": "Portland",
+            "state": "ME",
+            "venue": "One Longfellow Square"
+        },
+        {
+            "date": ["6/20/2007"],
+            "city": "Cambridge",
+            "state": "MA",
+            "venue": "The Lily Pad"
+        },
+        {
+            "date": ["6/216/2007"],
+            "city": "East Lansing",
+            "state": "MI",
+            "venue": "SCENE Metrospace"
+        },
+        {
+            "date": ["6/8/2007"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "Mascher Space Cooperative"
+        },
+        {
+            "date": ["6/7/2007"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "Mascher Space Cooperative"
+        },
+        {
+            "date": ["5/12/2007"],
+            "city": "Media",
+            "state": "PA",
+            "venue": "Maitri Yoga Studio"
+        },
+        {
+            "date": ["4/27/2007"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "Mascher Space Cooperative"
+        },
+        {
+            "date": ["4/18/2007"],
+            "city": "Denver",
+            "state": "CO",
+            "venue": "Creative Music Works"
+        },
+        {
+            "date": ["4/17/2007"],
+            "city": "Ft. Collins",
+            "state": "CO",
+            "venue": "Colorado State University"
+        },
+        {
+            "date": ["4/16/2007"],
+            "city": "Ft. Collins",
+            "state": "CO",
+            "venue": "Colorado State University"
+        },
+        {
+            "date": ["4/13/2007"],
+            "city": "El Paso",
+            "state": "TX",
+            "venue": "University of Texas at El Paso"
+        },
+        {
+            "date": ["4/11/2007"],
+            "city": "Las Cruces",
+            "state": "NM",
+            "venue": "New Mexico State University"
+        },
+        {
+            "date": ["3/30/2007"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "Mascher Space Cooperative"
+        },
+        {
+            "date": ["3/23/2007"],
+            "city": "Rochester",
+            "state": "NY",
+            "venue": "Eastman School of Music"
+        },
+        {
+            "date": ["3/22/2007"],
+            "city": "Rochester",
+            "state": "NY",
+            "venue": "Eastman School of Music"
+        },
+        {
+            "date": ["3/10/2007"],
+            "city": "Oklahoma City",
+            "state": "OK",
+            "venue": "Oklahoma City University"
+        },
+        {
+            "date": ["3/9/2007"],
+            "city": "Oklahoma City",
+            "state": "OK",
+            "venue": "Individual Artists of Oklahoma Gallery"
+        },
+        {
+            "date": ["3/7/2007"],
+            "city": "Fayetteville",
+            "state": "AR",
+            "venue": "University of Arkansas"
+        },
+        {
+            "date": ["3/6/2007"],
+            "city": "Conway",
+            "state": "AR",
+            "venue": "University of Central Arkansas"
+        },
+        {
+            "date": ["3/2/2007"],
+            "city": "Glassboro",
+            "state": "NJ",
+            "venue": "Rowan University"
+        },
+        {
+            "date": ["2/17/2007"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "Mascher Space Cooperative"
+        },
+        {
+            "date": ["1/26/2007"],
+            "city": "Chicago",
+            "state": "IL",
+            "venue": "Heaven Gallery"
+        },
+        {
+            "date": ["1/25/2007"],
+            "city": "East Lansing",
+            "state": "MI",
+            "venue": "SCENE Metrospace"
+        },
+        {
+            "date": ["12/29/2006"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Madison Center for Creative and Cultural Arts"
+        },
+        {
+            "date": ["12/23/2006"],
+            "city": "Milwaukee",
+            "state": "WI",
+            "venue": "Hotcakes"
+        },
+        {
+            "date": ["12/22/2006"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Madison Center for Creative and Cultural Arts"
+        },
+        {
+            "date": ["12/17/2008"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "Mascher Space Cooperative"
+        },
+        {
+            "date": ["12/8/2006"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "Bowerbird"
+        },
+        {
+            "date": ["10/26/2006"],
+            "city": "Atlanta",
+            "state": "GA",
+            "venue": "Eyedrum"
+        },
+        {
+            "date": ["10/24/2006"],
+            "city": "Harrisonburg",
+            "state": "VA",
+            "venue": "James Madison University"
+        },
+        {
+            "date": ["9/18/2006"],
+            "city": "Syracuse",
+            "state": "NY",
+            "venue": "Onondaga Community College"
+        },
+        {
+            "date": ["9/17/2006"],
+            "city": "Ithaca",
+            "state": "NY",
+            "venue": "Cornell University"
+        },
+        {
+            "date": ["9/15/2006"],
+            "city": "Columbus",
+            "state": "OH",
+            "venue": "Milo Elektric"
+        },
+        {
+            "date": ["9/12/2006"],
+            "city": "Cleveland",
+            "state": "OH",
+            "venue": "Passport Project"
+        },
+        {
+            "date": ["9/11/2006"],
+            "city": "Milwaukee",
+            "state": "WI",
+            "venue": "Hotcakes"
+        },
+        {
+            "date": ["9/8/2006"],
+            "city": "Sturgeon Bay",
+            "state": "WI",
+            "venue": "Fairfield Center for Contemporary Art"
+        },
+        {
+            "date": ["9/1/2006"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "First Unitarian Society of Madison"
+        },
+        {
+            "date": ["8/29/2006"],
+            "city": "St. Paul",
+            "state": "MN",
+            "venue": "Studio Z"
+        },
+        {
+            "date": ["8/25/2006"],
+            "city": "Rochester",
+            "state": "NY",
+            "venue": "A|V"
+        },
+        {
+            "date": ["8/23/2006"],
+            "city": "Gloucester",
+            "state": "MA",
+            "venue": "Fishtown Artspace"
+        },
+        {
+            "date": ["8/22/2006"],
+            "city": "Cambridge",
+            "state": "MA",
+            "venue": "Zeitgeist Gallery"
+        },
+        {
+            "date": ["8/16/2006"],
+            "city": "New York",
+            "state": "NY",
+            "venue": "The Tank"
+        },
+        {
+            "date": ["5/28/2006"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "Andrea Clearfield Salon"
+        },
+        {
+            "date": ["5/13/2006"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "University City Arts League"
+        },
+        {
+            "date": ["4/15/2006"],
+            "city": "Richmond",
+            "state": "VA",
+            "venue": "Artspace Gallery"
+        },
+        {
+            "date": ["4/1/2006"],
+            "city": "Baltimore",
+            "state": "MD",
+            "venue": "The Red Room"
+        },
+        {
+            "date": ["3/31/2006"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "venue": "Philadelphia Ethical Society"
+        },
+        {
+            "date": ["3/7/2006"],
+            "city": "Oklahoma City",
+            "state": "OK",
+            "venue": "Oklahoma City University"
+        },
+        {
+            "date": ["3/5/2006"],
+            "city": "Fayetteville",
+            "state": "AR",
+            "venue": "University of Arkansas"
+        },
+        {
+            "date": ["3/4/2006"],
+            "city": "Conway",
+            "state": "AR",
+            "venue": "University of Central Arkansas"
+        },
+        {
+            "date": ["3/3/2006"],
+            "city": "Conway",
+            "state": "AR",
+            "venue": "University of Central Arkansas"
+        },
+        {
+            "date": ["1/29/2006"],
+            "city": "Kenosha",
+            "state": "WI",
+            "venue": "UCarthage College"
+        },
+        {
+            "date": ["1/27/2006"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Mills Hall"
+        },
+        {
+            "date": ["1/22/2006"],
+            "city": "East Lansing",
+            "state": "MI",
+            "venue": "Michigan State University"
+        },
+        {
+            "date": ["11/28/2005"],
+            "city": "Glassboro",
+            "state": "NJ",
+            "venue": "Rowan University"
+        },
+        {
+            "date": ["11/19/2005"],
+            "city": "Baltimore",
+            "state": "MD",
+            "venue": "University of Notre Dame of Maryland"
+        },
+        {
+            "date": ["5/12/2005"],
+            "city": "Rochester",
+            "state": "NY",
+            "venue": "Christ Church"
+        },
+        {
+            "date": ["4/8/2005"],
+            "city": "Eau Clire",
+            "state": "WI",
+            "venue": "University of Wisconsin–Eau Claire",
+            "performanceNumber": 2
+        },
+        {
+            "date": ["4/8/2005"],
+            "city": "Eau Clire",
+            "state": "WI",
+            "venue": "University of Wisconsin–Eau Claire",
+            "performanceNumber": 1
+        },
+        {
+            "date": ["3/22/2005"],
+            "city": "Tallahassee",
+            "state": "FL",
+            "venue": "Florida State University"
+        },
+        {
+            "date": ["3/21/2005"],
+            "city": "Tallahassee",
+            "state": "FL",
+            "venue": "Florida State University",
+            "performanceNumber": 2            
+        },
+        {
+            "date": ["3/21/2005"],
+            "city": "Tallahassee",
+            "state": "FL",
+            "venue": "Florida State University",
+            "performanceNumber": 1
+        },
+        {
+            "date": ["3/7/2005"],
+            "city": "Wayne",
+            "state": "NJ",
+            "venue": "William Patterson University"
+        },
+        {
+            "date": ["3/4/2005"],
+            "city": "Cambridge",
+            "state": "MA",
+            "venue": "Edward M. Pickman Concert Hall"
+        },
+        {
+            "date": ["2/25/2005"],
+            "city": "West Chester",
+            "state": "PA",
+            "venue": "William Patterson University"
+        },
+        {
+            "date": ["1/17/2005"],
+            "city": "Ft. Collins",
+            "state": "CO",
+            "venue": "Colorado State University",
+            "performanceNumber": 2
+        },
+        {
+            "date": ["1/17/2005"],
+            "city": "Ft. Collins",
+            "state": "CO",
+            "venue": "Colorado State University",
+            "performanceNumber": 1
+        },
+        {
+            "date": ["12/4/2005"],
+            "city": "Cambridge",
+            "state": "MA",
+            "venue": "Edward M. Pickman Concert Hall"
+        },
+        {
+            "date": ["12/1/2004"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "University of Wisconsin–Madison"
+        },
+        {
+            "date": ["11/30/2004"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Mills Hall"
+        },
+        {
+            "date": ["10/1/2004"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Chazen Museum of Art"
+        },
+        {
+            "date": ["6/16/2004"],
+            "city": "Elberon",
+            "state": "NJ",
+            "venue": "LHS Marimba Seminar"
+        },
+        {
+            "date": ["4/18/2004"],
+            "city": "Madison",
+            "state": "WI",
+            "venue": "Mills Hall"
+        },
+        {
+            "date": ["4/17/2004"],
+            "city": "Oshkosh",
+            "state": "WI",
+            "venue": "University of Wisconsin–Oshkosh"
+        },
+        {
+            "date": ["4/3/2004"],
+            "city": "Tallahassee",
+            "state": "FL",
+            "venue": "Florida State University",
+            "performanceNumber": 2
+        },
+        {
+            "date": ["4/3/2004"],
+            "city": "Tallahassee",
+            "state": "FL",
+            "venue": "Florida State University",
+            "performanceNumber": 1
+        },
+        {
+            "date": ["3/30/2004"],
+            "city": "Rochester",
+            "state": "NY",
+            "venue": "Eastman School of Music"
+        },
+        {
+            "date": ["1/27/2004"],
+            "city": "Conway",
+            "state": "AR",
+            "venue": "University of Central Arkansas",
+            "performanceNumber": 2
+        },
+        {
+            "date": ["1/27/2004"],
+            "city": "Conway",
+            "state": "AR",
+            "venue": "University of Central Arkansas",
+            "performanceNumber": 1
+        }
+    ]
+}

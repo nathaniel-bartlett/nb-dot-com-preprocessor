@@ -1,0 +1,229 @@
+{
+    "discography": [        
+        {     
+            "title": "Luminous Machine",
+            "active": true,
+            "contentType": "audio",
+            "works": [
+                "Luminous Machine-1",
+                "Solar Sequence-1",
+                "Apical Topography-1"
+            ],            
+            "date": 2017,
+            "labelAndCode": "Sound-Space Audio Lab,SSAL-A6",
+            "media": [
+                "Audio CD and Data DVD",
+                "Download"
+            ],
+            "audioFormats": [
+                "HD 8-channel",
+                "HD 4-channel",
+                "HD Stereo",
+                "CD Stereo"
+            ],
+            "note": null,
+            "specialLink": null           
+        },
+        {     
+            "title": "Spectrum",
+            "active": true,
+            "contentType": "audio",
+            "works": [
+                "Networks-1",
+                "Cronometro_Palter_Quartet-1",
+                "Impulse Response-1",
+                "Cronometro_Palter_Solo-1",
+                "Wave Energy-1",
+                "Cronometro_Bugbee_Duo-1",
+                "Bright Points-1"
+            ],            
+            "date": 2017,
+            "labelAndCode": "Sound-Space Audio Lab,SSAL-A8",
+            "media": [
+                "Audio CD and Data DVD",
+                "Download"
+            ],
+            "audioFormats": [
+                "HD 8-channel",
+                "HD 4-channel",
+                "HD Stereo",
+                "CD Stereo"
+            ],
+            "note": null,
+            "specialLink": null     
+        },
+        {     
+            "title": "AV",
+            "active": true,
+            "contentType": "audio/video",
+            "avWorks": [
+                [
+                    "timeSpacePlace (A-Side)",
+                    "Unseasonable Events Change Hands"
+                ],
+                [
+                    "timeSpacePlace (B-Side)",
+                    "Unseasonable Events Change Hands"
+                ],
+                [
+                    "Heap",
+                    "Heap"
+                ]
+            ],            
+            "date": 2016,
+            "labelAndCode": "Sound-Space Audio Lab,SSAL-AV7",
+            "media": [
+                "Blu-ray"
+            ],
+            "audioFormats": [
+                "HD 8-channel",
+                "HD 4-channel",
+                "HD Stereo"
+            ],
+            "note": "Completed. Release pending Blue-ray authoring.",
+            "specialLink": [
+                {
+                    "text": "Video Gallery",
+                    "url": "https://vimeo.com/album/3719612"
+                }
+            ]       
+        },
+        {     
+            "title": "Neoteric Topology",
+            "active": true,
+            "contentType": "audio",
+            "works": [
+                "Neoteric Topology-1"
+            ],            
+            "date": 2015,
+            "labelAndCode": "Sound-Space Audio Lab,SSAL-A5",
+            "media": [
+                "Audio CD and Data DVD",
+                "Download"
+            ],
+            "audioFormats": [
+                "HD 8-channel",
+                "HD 4-channel",
+                "HD Stereo",
+                "CD Stereo"
+            ],
+            "note": null,
+            "specialLink": null       
+        },
+        {     
+            "title": "timeSpacePlace",
+            "active": true,
+            "contentType": "audio",
+            "works": [
+                "timeSpacePlace (A-Side)-1",
+                "timeSpacePlace (B-Side)-1"
+            ],            
+            "date": 2013,
+            "labelAndCode": "Sound-Space Audio Lab,SSAL-A4",
+            "media": [
+                "Audio CD and Data DVD",
+                "Download"
+            ],
+            "audioFormats": [
+                "HD 8-channel",
+                "HD 4-channel",
+                "HD Stereo",
+                "CD Stereo"
+            ],
+            "note": null,
+            "specialLink": null        
+        },
+        {     
+            "title": "(((clang)))",
+            "active": true,
+            "contentType": "audio",
+            "works": [
+                "(((clang)))-1"
+            ],            
+            "date": 2012,
+            "labelAndCode": "Sound-Space Audio Lab,SSAL-A3",
+            "media": [
+                "Audio CD and Data DVD",
+                "Download"
+            ],
+            "audioFormats": [
+                "HD 8-channel",
+                "HD 4-channel",
+                "HD Stereo",
+                "CD Stereo"
+            ],
+            "note": null,
+            "specialLink": null     
+        },
+        {     
+            "title": "Trichotomic Ecology",
+            "active": true,
+            "contentType": "audio",
+            "works": [
+                "Trichotomic Ecology-1"
+            ],            
+            "date": 2011,
+            "labelAndCode": "Sound-Space Audio Lab,SSAL-A2",
+            "media": [
+                "Audio CD and Data DVD",
+                "Download"
+            ],
+            "audioFormats": [
+                "HD 8-channel",
+                "HD 4-channel",
+                "HD Stereo",
+                "CD Stereo"
+            ],
+            "note": null,
+            "specialLink": null        
+        },
+        {     
+            "title": "Far Reaches",
+            "active": true,
+            "contentType": "audio",
+            "works": [
+                "Star_Birth-1",
+                "Heap-1"
+            ],            
+            "date": 2010,
+            "labelAndCode": "Sound-Space Audio Lab,SSAL-A1",
+            "media": [
+                "Audio CD and Data DVD",
+                "Download"
+            ],
+            "audioFormats": [
+                "HD 8-channel",
+                "HD 4-channel",
+                "HD Stereo",
+                "CD Stereo"
+            ],
+            "note": null,
+            "specialLink": null       
+        },
+        {     
+            "title": "Precipice",
+            "active": true,
+            "contentType": "audio",
+            "works": [
+                "Opening-1",
+                "Precipice-1",
+                "Interlude-1",
+                "Silhouettes-1",
+                "Vermont Counterpoint-1"
+            ],            
+            "date": 2006,
+            "labelAndCode": "Albany Records,Troy 855",
+            "media": [
+                "Hybrid Multi-Channel Super Audio CD",
+                "Download"
+            ],
+            "audioFormats": [
+                "HD 5-channel",
+                "HD Stereo",
+                "CD Stereo"
+            ],
+            "note": null,
+            "specialLink": null      
+        }
+    ]
+}

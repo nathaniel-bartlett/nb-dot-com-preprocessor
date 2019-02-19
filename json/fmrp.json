@@ -1,0 +1,46 @@
+{
+    "fmrp": [
+        {
+            "name": "Word Color",
+            "composer": "Paul Lansky",
+            "date": [1992],
+            "channelsFormat": "2ch"
+        },
+        {
+            "name": "Vivre",
+            "composer": "Allan Schindler",
+            "date": [2008],
+            "channelsFormat": "8ch"
+        },
+        {
+            "name": "Sidewinder",
+            "composer": "Morton Subotnick",
+            "date": [1971],
+            "channelsFormat": "4ch"
+        },
+        {
+            "name": "Gesang der Jünglinge",
+            "composer": "Karlheinz Stockhausen",
+            "date": [1955, 1956],
+            "channelsFormat": "4ch"
+        },
+        {
+            "name": "Kontakte",
+            "composer": "Karlheinz Stockhausen",
+            "date": [1958, 1960],
+            "channelsFormat": "4ch"
+        },
+        {
+            "name": "Sieben Stufen",
+            "composer": "Hans Tutschku",
+            "date": [1995],
+            "channelsFormat": "4ch"
+        },
+        {
+            "name": "Poème Électronique",
+            "composer": "Edgard Varèse",
+            "date": [1958],
+            "channelsFormat": "5ch"
+        }
+    ]
+}

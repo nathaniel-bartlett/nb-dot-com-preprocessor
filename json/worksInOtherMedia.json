@@ -1,0 +1,115 @@
+{
+    "worksInOtherMedia": [
+        {
+            "title": "Unseasonable Events Change Hands",
+            "creator": ["Toby Kaufmann-Buhler"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "Video"
+            ],
+            "date": [2011],
+            "for": "DVD Video",
+            "createdFor": null,
+            "occasion": null,
+            "withComposition": ["timeSpacePlace"],
+            "recordings": [
+                {
+                    "versionName": null,
+                    "for": null,
+                    "subParts": null,
+                    "date": 2011,
+                    "catalogCode": [
+                        "SSAL-AV7"
+                    ],
+                    "duration": "22:15",
+                    "performers": null,
+                    "creator": ["Toby Kaufmann-Buhler"],
+                    "formats": [
+                        {
+                            "name": "Blu-Ray",
+                            "type": "Video",
+                            "originalQuality": "DVD"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Video Link #1",
+                    "url": "https://vimeo.com/album/3719612/video/73502287"
+                },
+                {
+                    "name": "Video Link #2",
+                    "url": "https://vimeo.com/album/3719612/video/75887751"
+                }
+            ]
+        },
+        {
+            "title": "Heap",
+            "creator": ["Toby Kaufmann-Buhler"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "Video"
+            ],
+            "date": [2015],
+            "for": "HD Video 1080p",
+            "createdFor": null,
+            "occasion": null,
+            "withComposition": ["Heap"],
+            "recordings": [
+                {
+                    "versionName": null,
+                    "for": null,
+                    "subParts": null,
+                    "date": 2015,
+                    "catalogCode": [
+                        "SSAL-AV7"
+                    ],
+                    "duration": "17:30",
+                    "performers": null,
+                    "creator": ["Toby Kaufmann-Buhler"],
+                    "formats": [
+                        {
+                            "name": "Blu-Ray",
+                            "type": "Video",
+                            "originalQuality": "HD"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Video Link #1",
+                    "url": "https://vimeo.com/141957856"
+                },
+                {
+                    "name": "Video Link #2",
+                    "url": "https://vimeo.com/145547414"
+                }
+            ]
+        },
+        {
+            "title": "Cronometro",
+            "creator": ["Toby Kaufmann-Buhler"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "Video"
+            ],
+            "date": [2018],
+            "for": "HD Video 1080p",
+            "createdFor": null,
+            "occasion": null,
+            "withComposition": ["Cronometro"],
+            "recordings": null,
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Video Link",
+                    "url": "https://vimeo.com/album/3320387/video/217342956"
+                }
+            ]
+        }
+    ]
+}

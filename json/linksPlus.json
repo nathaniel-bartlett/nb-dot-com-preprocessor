@@ -1,0 +1,625 @@
+{
+    "links": [
+        {
+            "text": "Ascent of Man: Art and More",
+            "url": "https://www.descent-of-man.com"
+        },
+        {
+            "text": "Brutalist Websites",
+            "url": "http://brutalistwebsites.com"
+        },
+        {
+            "text": "Downtown Devil",
+            "url": "http://thekey.xpn.org"
+        },  
+        {
+            "text": "Eastman School of Music",
+            "url": "http://www.esm.rochester.edu"
+        },
+        {
+            "text": "Fred Bugbee",
+            "url": "https://music.nmsu.edu/en/faculty/fred-bugbee"
+        },
+        {
+            "text": "John Beck",
+            "url": "http://www.esm.rochester.edu/faculty/beck_john"
+        },
+        {
+            "text": "Lee Vinson",
+            "url": "http://www.leevinson.com"
+        },
+        {
+            "text": "Leigh Howard Stevens",
+            "url": "https://en.wikipedia.org/wiki/Leigh_Howard_Stevens"
+        },
+        {
+            "text": "Malletech",
+            "url": "http://www.mostlymarimba.com"
+        },
+        {
+            "text": "Morris Palter",
+            "url": "http://morrispalter.org"
+        },
+        {
+            "text": "Michael Carp",
+            "url": "https://www.michaelkcarp.com"
+        },
+        {
+            "text": "NUVO",
+            "url": "http://www.nuvo.net"
+        },
+        {
+            "text": "Overture Center for the Arts",
+            "url": "https://www.overture.org"
+        },
+        {
+            "text": "Pasatiempo / Santa Fe New Mexican",
+            "url": "http://www.santafenewmexican.com/pasatiempo"
+        },      
+        {
+            "text": "Percussive Notes",
+            "url": "http://pas.org"
+        },
+        {
+            "text": "Public radio Tulsa",
+            "url": "http://publicradiotulsa.org"
+        },
+        {
+            "text": "Squid's Ear",
+            "url": "http://www.squidsear.com/ear"
+        },
+        {
+            "text": "Royal Academy of Music",
+            "url": "http://www.ram.ac.uk"
+        },
+        {
+            "text": "Silent PC",
+            "url": "https://silentpc.com"
+        },
+        {
+            "text": "Sound Notion TV: Patch In",
+            "url": "http://www.soundnotion.tv/pi"
+        },
+        {
+            "text": "Stephen Dembski",
+            "url": "http://www.music.wisc.edu/faculty/dembski"
+        },
+        {
+            "text": "Toby Kaufmann-Buhler",
+            "url": "https://oscillation.org/tkbuhler"
+        },
+        {
+            "text": "The Key",
+            "url": "http://thekey.xpn.org"
+        },
+        {
+            "text": "University of Wisconsin–Madison",
+            "url": "https://www.overture.org"
+        },
+        {
+            "text": "Wisconsin Institute for Discovery",
+            "url": "http://discovery.wisc.edu/wisconsin"
+        },
+        {
+            "text": "Wisconsin Public Radio",
+            "url": "http://www.wpr.org"
+        },
+        {
+            "text": "Nils Bultmann",
+            "url": "http://nilsbultmann.com"
+        },
+        {
+            "text": "mobile multi-channel electroacoustic diffusion sytem",
+            "url": "https://www.flickr.com/photos/nb-ssal/sets/72157651775631146"
+        },
+        {
+            "text": "Bandcamp",
+            "url": "https://nbssal.bandcamp.com/music"
+        },
+        {
+            "text": "Allan Schindler",
+            "url": "http://ecmc.rochester.edu/allan"
+        },
+        {
+            "text": "Paul Lansky",
+            "url": "http://paul.mycpanel.princeton.edu"
+        },
+        {
+            "text": "Morton Subotnick",
+            "url": "http://www.mortonsubotnick.com"
+        },
+        {
+            "text": "Karlheinz Stockhausen",
+            "url": "http://www.karlheinzstockhausen.org"
+        },
+        {
+            "text": "Hans Tutschku",
+            "url": "http://www.tutschku.com"
+        },
+        {
+            "text": "Edgard Varèse",
+            "url": "https://en.wikipedia.org/wiki/Edgard_Var%C3%A8se"
+        },
+        {
+            "text": "WORT",
+            "url": "http://wortfm.org"
+        },
+        {
+            "text": "Philips pavilion",
+            "url": "https://en.wikipedia.org/wiki/Philips_Pavilion"
+        },
+        {
+            "text": "Tech and the West",
+            "url": "https://www.santafeopera.org/discover/symposium/tech-and-the-west"
+        },
+        {
+            "text": "Santa Fe Opera",
+            "url": "https://www.santafeopera.org"
+        },
+        {
+            "text": "New Mexico History Museum",
+            "url": "http://www.nmhistorymuseum.org"
+        },        
+        {
+            "text": "NeXT",
+            "url": "https://en.wikipedia.org/wiki/NeXT"
+        },
+        {
+            "text": "Currents New Media Festival",
+            "url": "https://currentsnewmedia.org"
+        },
+        {
+            "text": "ToBeContinued...2017",
+            "url": "http://www.stazioneditopolo.it/24h-2017"
+        },
+        {
+            "text": "Stazione di Topolò",
+            "url": "http://www.stazioneditopolo.it"
+        },
+        {
+            "text": "Sonorities Festival of Contemporary Music",
+            "url": "http://www.qub.ac.uk/sonorities/index.html"
+        },
+        {
+            "text": "Queen’s University Belfast",
+            "url": "http://www.qub.ac.uk"
+        },
+        {
+            "text": "Sonic Arts Research Centre",
+            "url": "http://www.sarc.qub.ac.uk/sites/sarc"
+        },
+        {
+            "text": "ICONIC Group Exhibition",
+            "url": "https://www.facebook.com/events/1135953036448802"
+        },
+        {
+            "text": "EVOKE contemporary",
+            "url": "http://www.evokecontemporary.com"
+        },
+        {
+            "text": "Outside the Box New Music Series",
+            "url": "http://cola.siu.edu/music/camps-festivals-outreach/festivals/outside-the-box"
+        },
+        {
+            "text": "Southern Illinois University Carbondale",
+            "url": "http://cola.siu.edu/music"
+        },
+        {
+            "text": "Charles Allis Art Museum",
+            "url": "http://www.charlesallis.org"
+        },
+        {
+            "text": "University of Wisconsin–Oshkosh, Music Hall",
+            "url": "http://www.uwosh.edu/music"
+        },
+        {
+            "text": "St. Cloud State University Performing Arts Center",
+            "url": "http://www.stcloudstate.edu/music"
+        },
+        {
+            "text": "Truman State University",
+            "url": "http://www.truman.edu/majors-programs/academic-departments/about-the-music-department"
+        },
+        {
+            "text": "Kansas State University",
+            "url": "http://www.k-state.edu/music"
+        },
+        {
+            "text": "Railyard Performance Center",
+            "url": "http://www.railyardperformancecenter.com"
+        },
+        {
+            "text": "First Unitarian",
+            "url": "http://www.uuabq.org"
+        },
+        {
+            "text": "Santa Fe Railyard Park",
+            "url": "http://www.railyardpark.org"
+        },
+        {
+            "text": "IMAGEOHIO 15",
+            "url": "http://roygbivgallery.org/exhibitions/imageohio-15"
+        },
+        {
+            "text": "ROY G BIV Gallery",
+            "url": "http://roygbivgallery.org"
+        },
+        {
+            "text": "The Shot Tower Gallery",
+            "url": "http://shottowergallery.com"
+        },
+        {
+            "text": "KNOB Festival of New Music",
+            "url": "https://www.facebook.com/knobfest"
+        },
+        {
+            "text": "Fisch Haus Studios",
+            "url": "http://www.fischhaus.com"
+        },
+        {
+            "text": "Bancroft Street Market",
+            "url": "http://www.bancroftstreetmarket.com"
+        },
+        {
+            "text": "University of Wisconsin–Stevens Point",
+            "url": "http://www.uwsp.edu/music/Pages/default.aspx"
+        },
+        {
+            "text": "Ingenuity Cleveland",
+            "url": "http://ingenuitycleveland.com"
+        },
+        {
+            "text": "Great Lakes Science Center",
+            "url": "http://www.greatscience.com"
+        },
+        {
+            "text": "Living Arts",
+            "url": "http://www.livingarts.org"
+        },
+        {
+            "text": "University of Central Arkansas",
+            "url": "http://uca.edu/music"
+        },
+        {
+            "text": "Crane Old School White Space",
+            "url": "http://www.cranearts.com/visit"
+        },
+        {
+            "text": "The Pharmacy",
+            "url": "http://thepharmacygallery.com"
+        },
+        {
+            "text": "Lemp Neighborhood Arts Center",
+            "url": "http://www.lemp-arts.org"
+        },
+        {
+            "text": "James Watrous Gallery",
+            "url": "https://www.overture.org/galleries/james-watrous-gallery"
+        },
+        {
+            "text": "LHS Marimba Seminar",
+            "url": "https://www.mostlymarimba.com"
+        },
+        {
+            "text": "Wisconsin Institutes for Discovery",
+            "url": "https://discovery.wisc.edu"
+        },
+        {
+            "text": "Percussive Arts Society",
+            "url": "http://www.pas.org"
+        },
+        {
+            "text": "Northern Arizona University",
+            "url": "https://nau.edu/music"
+        },
+        {
+            "text": "University of Arizona",
+            "url": "https://music.arizona.edu"
+        },
+        {
+            "text": "The Icehouse",
+            "url": "http://theicehouseaz.com"
+        },
+        {
+            "text": "Ithaca College",
+            "url": "https://www.ithaca.edu/academics/school-music"
+        },
+        {
+            "text": "William Patterson University",
+            "url": "https://www.wpunj.edu/music"
+        },
+        {
+            "text": "West Chester University",
+            "url": "https://www.wcupa.edu/music"
+        },
+        {
+            "text": "Danspace Project",
+            "url": "http://www.danspaceproject.org"
+        },
+        {
+            "text": "Robert Morris University",
+            "url": "https://www.rmu.edu"
+        },
+        {
+            "text": "Judson Memorial Church",
+            "url": "https://en.wikipedia.org/wiki/Judson_Memorial_Church"
+        },
+        {
+            "text": "The Fuse Factory",
+            "url": "http://thefusefactory.org"
+        },
+        {
+            "text": "Georgia Institute of Technology",
+            "url": "https://music.gatech.edu"
+        },
+        {
+            "text": "University of Central Florida",
+            "url": "http://music.cah.ucf.edu"
+        },
+        {
+            "text": "Florida State University",
+            "url": "https://music.fsu.edu"
+        },
+        {
+            "text": "Eyedrum",
+            "url": "https://en.wikipedia.org/wiki/Eyedrum"
+        },
+        {
+            "text": "Athens Institute for Contemporary Art",
+            "url": "http://athica.org"
+        },
+        {
+            "text": "University of Kentucky",
+            "url": "https://finearts.uky.edu/music"
+        },
+        {
+            "text": "Higher Fire Gallery",
+            "url": "http://higherfireclaystudio.com"
+        },
+        {
+            "text": "East Carolina University",
+            "url": "http://www.ecu.edu/cs-cfac/music"
+        },
+        {
+            "text": "University of New Mexico",
+            "url": "http://music.unm.edu"
+        },
+        {
+            "text": "New Mexico State University",
+            "url": "https://music.nmsu.edu"
+        },
+        {
+            "text": "University of Texas at Arlington",
+            "url": "https://www.uta.edu/music"
+        },
+        {
+            "text": "Third Life Studio",
+            "url": "http://www.thirdlifestudio.com"
+        },
+        {
+            "text": "The Brew House",
+            "url": "http://brewhousepgh.com"
+        },
+        {
+            "text": "Orange County Center for Contemporary Art",
+            "url": "http://www.occca.org"
+        },
+        {
+            "text": "Solar Culture",
+            "url": "http://www.solarculture.org"
+        },
+        {
+            "text": "Super Happy Fun Land",
+            "url": "http://www.superhappyfunland.com"
+        },
+        {
+            "text": "Onondaga Community College",
+            "url": "http://www.sunyocc.edu"
+        },
+        {
+            "text": "University of Wisconsin–Whitewater",
+            "url": "https://www.uww.edu/cac/music"
+        },
+        {
+            "text": "SCENE Metrospace",
+            "url": "http://www.art.msu.edu/galleries/scene"
+        },
+        {
+            "text": "New Music Coop",
+            "url": "http://www.newmusiccoop.org"
+        },
+        {
+            "text": "Mexican American Cultural Center",
+            "url": "http://www.austintexas.gov/esbmacc"
+        },
+        {
+            "text": "Lansing Community College",
+            "url": "https://www.lcc.edu"
+        },
+        {
+            "text": "Indianapolis Art Center",
+            "url": "https://www.indplsartcenter.org"
+        },
+        {
+            "text": "Taliesin Hillside Theater",
+            "url": "https://www.taliesinpreservation.org"
+        },
+        {
+            "text": "Mattress Factory",
+            "url": "https://www.mattress.org"
+        },
+        {
+            "text": "Nutsuoh",
+            "url": "http://notsuoh.com"
+        },
+        {
+            "text": "Mascher Space Cooperative",
+            "url": "https://www.mascherdance.org"
+        },
+        {
+            "text": "Gallery X",
+            "url": "https://www.facebook.com/GalleryXNewBedford"
+        },
+        {
+            "text": "Philadelphia Ethical Society",
+            "url": "https://phillyethics.org"
+        },
+        {
+            "text": "Austin Museum of Digital Art",
+            "url": "http://www.amoda.org"
+        },
+        {
+            "text": "Center for New Music and Technology",
+            "url": "https://cnmat.berkeley.edu"
+        },
+        {
+            "text": "Taliesin West",
+            "url": "https://franklloydwright.org/taliesin-west"
+        },
+        {
+            "text": "Individual Artists of Oklahoma Gallery",
+            "url": "https://individualartists.org"
+        },
+        {
+            "text": "University of New Hampshire",
+            "url": "https://cola.unh.edu/music"
+        },
+        {
+            "text": "Chestnut Avenue Center for the Arts",
+            "url": "https://chestnutarts.org"
+        },
+        {
+            "text": "Studio Z",
+            "url": "http://www.studiozstpaul.com"
+        },
+        {
+            "text": "AS220",
+            "url": "https://as220.org"
+        },
+        {
+            "text": "One Longfellow Square",
+            "url": "https://onelongfellowsquare.com"
+        },
+        {
+            "text": "The Lily Pad",
+            "url": "https://www.lilypadinman.com"
+        },
+        {
+            "text": "Creative Music Works",
+            "url": "http://creativemusicworks.org"
+        },
+        {
+            "text": "Colorado State University",
+            "url": "https://music.colostate.edu"
+        },
+        {
+            "text": "University of Texas at El Paso",
+            "url": "https://www.utep.edu/liberalarts/music"
+        },
+        {
+            "text": "Oklahoma City University",
+            "url": "https://www.okcu.edu/music/home"
+        },
+        {
+            "text": "University of Arkansas",
+            "url": "https://fulbright.uark.edu/departments/music"
+        },
+        {
+            "text": "Rowan University",
+            "url": "https://academics.rowan.edu/cpa/music/index.html"
+        },
+        {
+            "text": "Heaven Gallery",
+            "url": "https://www.heavengallery.com"
+        },
+        {
+            "text": "Bowerbird",
+            "url": "https://www.bowerbird.org"
+        },
+        {
+            "text": "James Madison University",
+            "url": "https://www.jmu.edu/music"
+        },
+        {
+            "text": "Cornell University",
+            "url": "https://music.cornell.edu"
+        },
+        {
+            "text": "Milo Elektric",
+            "url": "https://www.miloarts.com"
+        },
+        {
+            "text": "Passport Project",
+            "url": "https://www.facebook.com/PassportProject"
+        },
+        {
+            "text": "First Unitarian Society of Madison",
+            "url": "https://fusmadison.org"
+        },
+        {
+            "text": "The Tank",
+            "url": "https://www.thetanknyc.org"
+        },
+        {
+            "text": "Andrea Clearfield Salon",
+            "url": "http://www.andreaclearfield.com/music-salon"
+        },
+        {
+            "text": "University City Arts League",
+            "url": "http://www.ucartsleague.org"
+        },
+        {
+            "text": "Artspace Gallery",
+            "url": "http://www.artspacegallery.org"
+        },
+        {
+            "text": "The Red Room",
+            "url": "http://redroom.org"
+        },
+        {
+            "text": "Carthage College",
+            "url": "https://www.carthage.edu/music"
+        },
+        {
+            "text": "Mills Hall",
+            "url": "http://www.music.wisc.edu"
+        },
+        {
+            "text": "Michigan State University",
+            "url": "https://www.music.msu.edu"
+        },
+        {
+            "text": "University of Notre Dame of Maryland",
+            "url": "https://www.ndm.edu"
+        },
+        {
+            "text": "Christ Church",
+            "url": "http://www.christchurchrochester.org"
+        },
+        {
+            "text": "University of Wisconsin–Eau Claire",
+            "url": "https://www.uwec.edu"
+        },
+        {
+            "text": "Edward M. Pickman Concert Hall",
+            "url": "https://longy.edu"
+        },
+        {
+            "text": "Chazen Museum of Art",
+            "url": "https://www.chazen.wisc.edu"
+        },
+        {
+            "text": "Sonic Divide Project",
+            "url": "https://sonicdivide.com"
+        },
+        {
+            "text": "Payton MacDonald",
+            "url": "https://paytonmacdonald.com"
+        }
+    ],
+    "units": [
+        "dB",
+        "kHz",
+        "NeXT"
+    ]
+}

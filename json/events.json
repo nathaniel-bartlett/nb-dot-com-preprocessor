@@ -1,0 +1,2175 @@
+{
+    "events": [
+        {
+            "date": ["9/9/2018"],
+            "city": "Madison",
+            "state": "WI",
+            "extra": null,
+            "classification": [
+                "Presentation"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["03:30pm", "05:00pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "University of Wisconsin–Madison"
+                },
+                {
+                    "name": "Class",
+                    "value": "Sound Design for the Performing and Visual Arts, with Prof. Joseph Koykkar"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Presentation",
+                    "text": "A presentation covering the technical (hardware and software) and artistic facets of my compositions"
+                }
+            ],
+            "archive": null
+        },
+        {
+            "date": ["2/27/2018"],
+            "city": "Madison",
+            "state": "WI",
+            "extra": null,
+            "classification": [
+                "Radio"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:00am", "08:00am"]
+                },
+                {
+                    "name": "Event",
+                    "value": "Joining host Peter Haney on a special pledge-drive edition of his show \"Back Porch Serenade\" for a chat and the broadcast of two recordings from my discography"
+                },
+                {
+                    "name": "Venue",
+                    "value": "WORT 89.9FM Madison, WI"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Networks-1",
+                    "subPart": null,
+                    "format": "CD Stereo",
+                    "recFormat": "CD Stereo",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "(((clang)))-1",
+                    "subPart": null,
+                    "format": "CD Stereo",
+                    "recFormat": "CD Stereo",
+                    "extra": "excerpt"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157692300992101"
+                }
+            ]
+        },
+        {
+            "date": ["2/4/2018"],
+            "city": "Madison",
+            "state": "WI",
+            "extra": null,
+            "classification": [
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["03:00pm"]
+                },
+                {
+                    "name": "Doors",
+                    "value": "02:30pm"
+                },
+                {
+                    "name": "Event",
+                    "value": "Sound-Space Audio Lab Overture Center Event Series"
+                },
+                {
+                    "name": "Event Number",
+                    "value": "021"
+                },
+                {
+                    "name": "Venue",
+                    "value": "The Overture Center for the Arts, Promenade Hall"
+                },
+                {
+                    "name": "About",
+                    "value": "A concert of immersive fixed media works including Edgard Varèse's seminal composition Poème Électronique, written for Le Corbusiers's Philips Pavilion at the 1958 Brussels World Fair, and recent works by Nathaniel Bartlett, created during time (2014-2017) in the high desert of Northern New Mexico (USA)"
+                },
+                {
+                    "name": "More Info",
+                    "value": "Free, donations encouraged, reservations encouraged (capacity 100)"
+                }
+            ],
+            "contents": [                
+                {
+                    "type": "Fixed Media",
+                    "recording": "Poème Électronique-1",
+                    "subPart": null,
+                    "format": null,
+                    "recFormat": "HD 5-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Impulse Response-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Neoteric Topology-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": "excerpt 1"
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Solar Sequence-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": "excerpt"
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Cronometro_Bugbee_Duo-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Apical Topography-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Neoteric Topology-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": "excerpt 2"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "donate",
+                    "link": "https://www.fracturedatlas.org/site/fiscal/profile?id=12071"
+                },
+                {
+                    "type": "reservations",
+                    "link": "https://www.artful.ly/nbssal"
+                }
+            ]
+        },
+        {
+            "date": ["1/30/2018"],
+            "city": "Madison",
+            "state": "WI",
+            "extra": null,
+            "classification": [
+                "Radio"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:00am", "08:00am"]
+                },
+                {
+                    "name": "Event",
+                    "value": "Joining host Peter Haney on his show Radio \"Back Porch Serenade\" for an interview and the broadcast of selected recordings of my compositions"
+                },
+                {
+                    "name": "Venue",
+                    "value": "WORT 89.9FM Madison, WI"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Apical Topography-1",
+                    "subPart": null,
+                    "format": "CD Stereo",
+                    "recFormat": "CD Stereo",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Solar Sequence-1",
+                    "subPart": null,
+                    "format": "CD Stereo",
+                    "recFormat": "CD Stereo",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157693089722174"
+                },
+                {
+                    "type": "audio",
+                    "link": "onclick=\"launchAudio(28)\" class=\"eventsAudioLaunch\""
+                }
+            ]
+        },
+        {
+            "date": ["7/22/2017"],
+            "city": "Santa Fe",
+            "state": "NM",
+            "extra": null,
+            "classification": [                
+                "Presentation"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["02:00pm", "03:30pm"]
+                },
+                {
+                    "name": "Event",
+                    "value": "Tech and the West, a symposium presented by the Santa Fe Opera in conjunction with the 2017 world premiere of The <b>(R)evolution of Steve Jobs</b> and the 2018 production of <b>Doctor Atomic</b>"
+                },
+                {
+                    "name": "Venue",
+                    "value": "New Mexico History Museum auditorium"
+                }
+            ],
+            "contents": [                
+                {
+                    "type": "Panel Discussion",
+                    "text": "Topic: Creative Expression. Panel: Composer Nathaniel Bartlett, Psychologist Dorella Bond, and Designer Leah Buechley. Moderated by Andrew J. Wulf, Director of the New Mexico History Museum"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157684158395253"
+                }
+            ]
+        },
+        {
+            "date": ["7/21/2017"],
+            "city": "Santa Fe",
+            "state": "NM",
+            "extra": null,
+            "classification": [
+                "Fixed Media",
+                "Live",
+                "Presentation"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["03:10pm", "04:10pm"]
+                },
+                {
+                    "name": "Event",
+                    "value": "Tech and the West, a symposium presented by the Santa Fe Opera in conjunction with the 2017 world premiere of The <b>(R)evolution of Steve Jobs</b> and the 2018 production of <b>Doctor Atomic</b>"
+                },
+                {
+                    "name": "Title",
+                    "value": "Concert Music and the Personal Computer Revolution"
+                },
+                {
+                    "name": "Venue",
+                    "value": "New Mexico History Museum auditorium"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Gesang der Jünglinge-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": "Excerpt"
+                },                
+                {
+                    "type": "Fixed Media",
+                    "recording": "Sidewinder-1",
+                    "subPart": 2,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": "excerpt"
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Sieben Stufen-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "CD 4-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Word Color-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "CD Stereo",
+                    "extra": null
+                },
+                {
+                    "type": "Live",
+                    "title": "NEXT_APEX_SF",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157684158395253"
+                }
+            ]
+        },
+        {
+            "date": ["6/9/2017"],
+            "city": "Santa Fe",
+            "state": "NM",
+            "extra": null,
+            "classification": [
+                "Fixed Media",
+                "AV"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": "Included with other works between 06:00pm and 12:00am"
+                },
+                {
+                    "name": "Event",
+                    "value": "Currents New Media Festival 2017"
+                },
+                {
+                    "name": "Venue",
+                    "value": "The Quasar Pavillion"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "AV",
+                    "audio": {
+                        "type": "Fixed Media",
+                        "recording": "Cronometro_Bugbee_Duo-1",
+                        "subPart": null,
+                        "format": "Presented in a CD-quality stereo version (Original: high-definition eight channel cube)",
+                        "recFormat": "CD Stereo",
+                        "extra": null
+                    },
+                    "video": {
+                        "type": "Fixed Media",
+                        "title": "Cronometro",
+                        "subPart": null,
+                        "more": "an interpretation by Toby Kaufmann-Buhler of the composition <b>Cronometro</b>, by Nathaniel Bartlett",
+                        "extra": null
+                    }
+                },
+                {
+                    "type": "AV",
+                    "audio": {
+                        "type": "Fixed Media",
+                        "recording": "timeSpacePlace (B-Side)-1",
+                        "subPart": null,
+                        "format": "Presented in a CD-quality stereo version (Original: high-definition eight channel cube)",
+                        "recFormat": "CD Stereo",
+                        "extra": null
+                    },
+                    "video" : {
+                        "type": "Fixed Media",
+                        "title": "Unseasonable Events Change Hands",
+                        "subPart": null,
+                        "more": null,
+                        "extra": null
+                    }
+                },
+                {
+                    "type": "AV",
+                    "audio": {
+                        "type": "Fixed Media",
+                        "recording": "Heap-1",
+                        "subPart": null,
+                        "format": "Presented in a CD-quality stereo version (Original: high-definition eight channel cube)",
+                        "recFormat": "CD Stereo",
+                        "extra": null
+                    },
+                    "video": {
+                        "type": "Fixed Media",
+                        "title": "Heap",
+                        "subPart": null,
+                        "more": null,
+                        "extra": null
+                    }
+                }        
+                
+            ],
+            "archive": null
+        },
+        {
+            "date": ["3/24/2017"],
+            "city": "Udine",
+            "state": "Italy",
+            "extra": " / Global Internet Event",
+            "classification": [
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["01:30pm Mountain Time (US)"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "ToBeContinued...2017"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Stazione di Topolò, multiple live listening posts across the globe, and live internet stream"
+                },
+                {
+                    "name": "More Info",
+                    "value": "ToBeContinued...2017 is a concert lasting 24 hours, from 00.00 hours to the midnight of March 24th, GMT+1, during which musicians from many parts of the world will be connected to a website that will broadcast their concerts. During this uninterrupted 24 hour marathon, each musician -- representing a range of new music practices -- will have a 30 minute window for live or prerecorded performance created especially for this event"
+                }
+            ],
+            "contents": [                         
+                {
+                    "type": "Fixed Media",
+                    "recording": "Campanology Improvisation 1-1",
+                    "format": "streamed in lower-resolution stereo",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157681906844855"
+                },
+                {
+                    "type": "Audio",
+                    "link": "https://vimeo.com/210315583"
+                }
+            ]
+        },
+        {
+            "date": ["11/24/2016"],
+            "city": "Belfast",
+            "state": "UK",
+            "extra": null,
+            "classification": [
+                "Fixed Media",
+                "AV"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Event Series",
+                    "value": "Sonorities Festival of Contemporary Music"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Queen’s University Belfast Sonic Arts Research Centre"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "AV",
+                    "audio": {
+                        "type": "Fixed Media",
+                        "recording": "Heap-1",
+                        "subPart": null,
+                        "format": "high-definition four channel version (Original: high-definition eight channel cube)",
+                        "recFormat": "HD 4-channel",
+                        "extra": null
+                    },
+                    "video": {
+                        "type": "Fixed Media",
+                        "title": "Heap",
+                        "subPart": null,
+                        "more": null,
+                        "extra": null
+                    }
+                }    
+            ],
+            "archive": [
+                {
+                    "type": "Program",
+                    "link": "programs/Sonorities2016_Programme.pdf"
+                }
+            ]
+        },
+        {
+            "date": ["5/27/2016"],
+            "city": "Santa Fe",
+            "state": "NM",
+            "extra": null,
+            "classification": [
+                "Fixed Media",
+                "AV"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["05:00pm", "07:00pm"]
+                },
+                {
+                    "name": "Event",
+                    "value": "ICONIC Group Exhibition"
+                },
+                {
+                    "name": "Venue",
+                    "value": "EVOKE contemporary"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "AV",
+                    "audio": {
+                        "type": "Fixed Media",
+                        "recording": "timeSpacePlace (B-Side)-1",
+                        "subPart": null,
+                        "format": "eight channel cube loudspeaker array",
+                        "recFormat": "HD 8-channel",
+                        "extra": null
+                    },
+                    "video": {
+                        "type": "Fixed Media",
+                        "title": "Unseasonable Events Change Hands",
+                        "subPart": null,
+                        "more": null,
+                        "extra": null
+                    }
+                },
+                {
+                    "type": "AV",
+                    "audio": {
+                        "type": "Fixed Media",
+                        "recording": "Heap-1",
+                        "subPart": null,
+                        "format": "high-definition four channel version (Original: high-definition eight channel cube)",
+                        "recFormat": "HD 4-channel",
+                        "extra": null
+                    },
+                    "video": {
+                        "type": "Fixed Media",
+                        "title": "Heap",
+                        "subPart": null,
+                        "more": null,
+                        "extra": null
+                    }
+                }    
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157669048551055"
+                }
+            ]
+        },
+        {
+            "date": ["4/3/2016"],
+            "city": "Carbondale",
+            "state": "IL",
+            "extra": "(2)",
+            "classification": [
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:30pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "Outside the Box New Music Series"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Southern Illinois University Carbondale, Altgeld room 112"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Impulse Response-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Trichotomic Ecology-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666673379842"
+                }
+            ]
+        },
+        {
+            "date": ["4/3/2016"],
+            "city": "Carbondale",
+            "state": "IL",
+            "extra": "(1)",
+            "classification": [
+                "Presentation"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["04:00pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "Outside the Box New Music Series"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Southern Illinois University Carbondale, Altgeld room 112"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Presentation",
+                    "text": "A presentation covering the technical (hardware and software) and artistic facets of my compositions utilizing three-dimensional, high-definition, computer-generated sound/notation"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666673379842"
+                }
+            ]
+        },
+        {
+            "date": ["11/5/2015"],
+            "city": "Milwaukee",
+            "state": "WI",
+            "extra": null,
+            "classification": [
+                "Fixed Media",
+                "AV"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Event",
+                    "value": "Threshold"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Charles Allis Art Museum"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "AV",
+                    "audio": {
+                        "type": "Fixed Media",
+                        "recording": "timeSpacePlace (B-Side)-1",
+                        "subPart": null,
+                        "format": "Presented in high-definition four-channel surround (Original: high-definition eight channel cube)",
+                        "recFormat": "HD 4-channel",
+                        "extra": null
+                    },
+                    "video" : {
+                        "type": "Fixed Media",
+                        "title": "Unseasonable Events Change Hands",
+                        "subPart": null,
+                        "more": null,
+                        "extra": null
+                    }
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157658790580365"
+                }
+            ]
+        },
+        {
+            "date": ["11/2/2015"],
+            "city": "Oshkosh",
+            "state": "WI",
+            "extra": "(2)",
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:30pm"]
+                },                
+                {
+                    "name": "Venue",
+                    "value": "University of Wisconsin–Oshkosh, Music Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Next Apex",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157658575253644"
+                }
+            ]
+        },
+        {
+            "date": ["11/2/2015"],
+            "city": "Oshkosh",
+            "state": "WI",
+            "extra": "(1)",
+            "classification": [
+                "Presentation"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["12:40pm"]
+                },                
+                {
+                    "name": "Venue",
+                    "value": "University of Wisconsin–Oshkosh, Music Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Presentation",
+                    "text": "A Presentation covering the technical (hardware and software) and artistic facets of my compositions for marimba and three-dimensional, high-definition, computer-generated sound/notation"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157658575253644"
+                }
+            ]
+        },
+        {
+            "date": ["10/30/2015"],
+            "city": "Madison",
+            "state": "WI",
+            "extra": null,
+            "classification": [
+                "Fixed Media",
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["06:30pm"]
+                },                
+                {
+                    "name": "Event Series",
+                    "value": "Sound-Space Audio Lab Overture Center Event"
+                },
+                {
+                    "name": "Event Number",
+                    "value": "020"
+                },
+                {
+                    "name": "Venue",
+                    "value": "The Overture Center for the Arts, Promenade Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Sidewinder-1",
+                    "subPart": 2,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Live",
+                    "title": "Next Apex",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157659512602901"
+                }
+            ]
+        },
+        {
+            "date": ["10/26/2015"],
+            "city": "St. Cloud",
+            "state": "MN",
+            "extra": "(2)",
+            "classification": [
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["08:00pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "St. Cloud State University Performing Arts Center, room 158A"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Kontakte-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Gesang der Jünglinge-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157660052787508"
+                }
+            ]
+        },
+        {
+            "date": ["10/26/2015"],
+            "city": "St. Cloud",
+            "state": "MN",
+            "extra": "(1)",
+            "classification": [
+                "Listening Session"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["01:00pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "St. Cloud State University Performing Arts Center, room 158A"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Listening Session",
+                    "text": "A Listening Session featuring works from my Sound-Space Audio Lab discography presented in their original multi-channel, high-definition formats"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157660052787508"
+                }
+            ]
+        },
+        {
+            "date": ["10/25/2015"],
+            "city": "St. Cloud",
+            "state": "MN",
+            "extra": "(2)",
+            "classification": [
+                "Presentation"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["04:00pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "St. Cloud State University Performing Arts Center, Ruth Gant Recital Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Presentation",
+                    "text": "A presentation covering the technical (hardware and software) and artistic facets of my compositions for marimba and three-dimensional, high-definition, computer-generated sound/notation"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157660052787508"
+                }
+            ]
+        },
+        {
+            "date": ["10/25/2015"],
+            "city": "St. Cloud",
+            "state": "MN",
+            "extra": "(1)",
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["03:00pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "St. Cloud State University Performing Arts Center, Ruth Gant Recital Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Next Apex",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157660052787508"
+                }
+            ]
+        },
+        {
+            "date": ["10/24/2015"],
+            "city": "Kirksville",
+            "state": "MO",
+            "extra": "(2)",
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["02:15pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "New Horizons Music Festival"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Truman State University, Ophelia Parrish Hall, room 2340"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Next Apex",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157660052684448"
+                }
+            ]
+        },
+        {
+            "date": ["10/24/2015"],
+            "city": "Kirksville",
+            "state": "MO",
+            "extra": "(1)",
+            "classification": [
+                "Presentation"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["01:15pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "New Horizons Music Festival"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Truman State University, Ophelia Parrish Hall, room 2340"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Presentation",
+                    "text": "A presentation covering the technical (hardware and software) and artistic facets of my works utilizing multi-channel, high-definition, computer-generated sound/notation"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157660052684448"
+                }
+            ]
+        },
+        {
+            "date": ["10/22/2015"],
+            "city": "Manhattan",
+            "state": "MO",
+            "extra": "(2)",
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:30pm"]
+                },                
+                {
+                    "name": "Venue",
+                    "value": "Kansas State University School of Music, Kirmser Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Next Apex",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157660052684448"
+                }
+            ]
+        },
+        {
+            "date": ["10/22/2015"],
+            "city": "Manhattan",
+            "state": "KS",
+            "extra": "(1)",
+            "classification": [
+                "Presentation"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["11:30am"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "Kansas State University School of Music, Kirmser Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Presentation",
+                    "text": "A presentation covering the technical (hardware and software) and artistic facets of my works utilizing multi-channel, high-definition, computer-generated sound/notation"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157660052623408"
+                }
+            ]
+        },
+        {
+            "date": ["6/6/2015"],
+            "city": "Santa Fe",
+            "state": "NM",
+            "extra": null,
+            "classification": [
+                "Fixed Media",
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["06:30pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "Sound-Space Audio Lab Albuquerque/Santa Fe Event Series"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Railyard Performance Center"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Kontakte-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Live",
+                    "title": "Apical Topography",
+                    "performers": [
+                        {
+                            "name": "Michael Carp",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "format": null,
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Gesang der Jünglinge-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/sets/72157653889704979"
+                }
+            ]
+        },
+        {
+            "date": ["6/5/2015"],
+            "city": "Albuquerque",
+            "state": "NM",
+            "extra": null,
+            "classification": [
+                "Fixed Media",
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["06:30pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "Sound-Space Audio Lab Albuquerque/Santa Fe Event Series"
+                },
+                {
+                    "name": "Venue",
+                    "value": "First Unitarian, Old Sanctuary"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Kontakte-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Live",
+                    "title": "Apical Topography",
+                    "performers": [
+                        {
+                            "name": "Michael Carp",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "format": null,
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Gesang der Jünglinge-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/sets/72157654313512045"
+                }
+            ]
+        },
+        {
+            "date": ["5/24/2015"],
+            "city": "Santa Fe",
+            "state": "NM",
+            "extra": null,
+            "classification": [                
+                "Open House",
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["11:00am", "05:00pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "Sound-Space Audio Lab Albuquerque/Santa Fe Event Series"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Santa Fe Railyard Park Community Room"
+                },
+                {
+                    "name": "More Info",
+                    "value": "This event is an open house. Stop by anytime 11:00am - 05:00pm. Playback of the new work on the hour (45min duration), every hour. Socialize / talk  00:45 - 00:60. Meet me, see/hear my mobile 3D high-def electroacoustic rig, learn about my work, and my other upcoming ABQ/SF events. Free (donations welcome)"
+                }
+            ],
+            "contents": [                
+                {
+                    "type": "Fixed Media",
+                    "recording": "Neoteric Topology-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/sets/72157651131176744"
+                }
+            ]
+        },
+        {
+            "date": ["5/23/2015"],
+            "city": "Albuquerque",
+            "state": "NM",
+            "extra": null,
+            "classification": [                
+                "Open House",
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["11:00am", "05:00pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "Sound-Space Audio Lab Albuquerque/Santa Fe Event Series"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Santa Fe Railyard Park Community Room"
+                },
+                {
+                    "name": "More Info",
+                    "value": "This event is an open house. Stop by anytime 11:00am - 05:00pm. Playback of the new work on the hour (45min duration), every hour. Socialize / talk  00:45 - 00:60. Meet me, see/hear my mobile 3D high-def electroacoustic rig, learn about my work, and my other upcoming ABQ/SF events. Free (donations welcome)"
+                }
+            ],
+            "contents": [                
+                {
+                    "type": "Fixed Media",
+                    "recording": "Neoteric Topology-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/sets/72157653460204211"
+                },
+                {
+                    "type": "Video",
+                    "link": "https://vimeo.com/129051781"
+                }
+            ]
+        },
+        {
+            "date": ["1/20/2015"],
+            "city": "Columbus",
+            "state": "OH",
+            "extra": null,
+            "classification": [
+                "Fixed Media",
+                "AV"
+            ],
+            "mainDetails": [                
+                {
+                    "name": "Event",
+                    "value": "IMAGEOHIO 15, presented by ROY G BIV Gallery"
+                },
+                {
+                    "name": "Venue",
+                    "value": "The Shot Tower Gallery"
+                }
+            ],
+            "contents": [                
+                {
+                    "type": "AV",
+                    "audio": {
+                        "type": "Fixed Media",
+                        "recording": "timeSpacePlace (B-Side)-1",
+                        "subPart": null,
+                        "format": "Presented in a CD-quality stereo version (Original: high-definition eight channel cube)",
+                        "recFormat": "CD Stereo",
+                        "extra": null
+                    },
+                    "video" : {
+                        "type": "Fixed Media",
+                        "title": "Unseasonable Events Change Hands",
+                        "subPart": null,
+                        "more": null,
+                        "extra": null
+                    }
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/sets/72157651848136365"
+                }
+            ]
+        },
+        {
+            "date": ["10/31/2014"],
+            "city": "Wichita",
+            "state": "KS",
+            "extra": null,
+            "classification": [
+                "Live",
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["08:00pm"]
+                },
+                {
+                    "name": "Event",
+                    "value": "KNOB Festival of New Music 2014"
+                },              
+                {
+                    "name": "Venue",
+                    "value": "Fisch Haus Studios"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Apex Altissimo",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Heap-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157664592384203"
+                }
+            ]
+        },
+        {
+            "date": ["10/29/2014"],
+            "city": "Omaha",
+            "state": "NE",
+            "extra": null,
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["06:30pm"]
+                },                           
+                {
+                    "name": "Venue",
+                    "value": "Bancroft Street Market"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Apex Altissimo",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157664578714524"
+                }
+            ]
+        },
+        {
+            "date": ["10/27/2014"],
+            "city": "Stevens Point",
+            "state": "WI",
+            "extra": null,
+            "classification": [
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:30pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "University of Wisconsin–Stevens Point, Noel Fine Arts Center, Room 240"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Kontakte-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Gesang der Jünglinge-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157664578290534"
+                }
+            ]
+        },
+        {
+            "date": ["10/26/2014"],
+            "city": "Madison",
+            "state": "WI",
+            "extra": null,
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["06:30pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "Sound-Space Audio Lab Overture Center Event Series"
+                },
+                {
+                    "name": "Event Number",
+                    "value": "019"
+                },               
+                {
+                    "name": "Venue",
+                    "value": "The Overture Center for the Arts, Promenade Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Apex Altissimo",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666336158050"
+                }
+            ]
+        },
+        {
+            "date": ["9/28/2014"],
+            "city": "Cleveland",
+            "state": "OH",
+            "extra": "(2)",
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["03:00pm"]
+                },
+                {
+                    "name": "Event",
+                    "value": "Ingenuity Cleveland"
+                },               
+                {
+                    "name": "Venue",
+                    "value": "Great Lakes Science Center, Reinberger Auditorium"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Apex Altissimo",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157664573891173"
+                }
+            ]
+        },
+        {
+            "date": ["9/28/2014"],
+            "city": "Cleveland",
+            "state": "OH",
+            "extra": "(1)",
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["01:00pm"]
+                },
+                {
+                    "name": "Event",
+                    "value": "Ingenuity Cleveland"
+                },               
+                {
+                    "name": "Venue",
+                    "value": "Great Lakes Science Center, Reinberger Auditorium"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Apex Altissimo",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157664573891173"
+                }
+            ]
+        },
+        {
+            "date": ["9/23/2014"],
+            "city": "Tulsa",
+            "state": "OK",
+            "extra": null,
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:30pm"]
+                },               
+                {
+                    "name": "Venue",
+                    "value": "Living Arts"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Apex Altissimo",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157664573707493"
+                }
+            ]
+        },
+        {
+            "date": ["9/22/2014"],
+            "city": "Conway",
+            "state": "AR",
+            "extra": null,
+            "classification": [
+                "Listening Session"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:00pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "University of Central Arkansas, Snow Fine Arts Recital Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Listening Session",
+                    "text": "A Listening Session featuring excerpts from compositions by Nathaniel Bartlett, Allan Schindler, Karlheinz Stockhausen, Kraftwerk, and others, presented on the Sound-Space Audio Lab multi-channel, high-definition loudspeaker array"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666749259681"
+                }
+            ]
+        },
+        {
+            "date": ["9/21/2014"],
+            "city": "Conway",
+            "state": "AR",
+            "extra": "(2)",
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:30pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "University of Central Arkansas, Snow Fine Arts Recital Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Apex Altissimo",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666749259681"
+                }
+            ]
+        },
+        {
+            "date": ["9/21/2014"],
+            "city": "Conway",
+            "state": "AR",
+            "extra": "(1)",
+            "classification": [
+                "Presentation"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:30pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "University of Central Arkansas, Snow Fine Arts Recital Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Presentation",
+                    "text": "A presentation covering the technical (hardware and software) and artistic facets of my compositions for marimba and three-dimensional, high-definition, computer-generated sound/notation"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666749259681"
+                }
+            ]
+        },
+        {
+            "date": ["5/28/2014"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "extra": null,
+            "classification": [
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["06:30pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "Sound-Space Audio Lab Philadelphia Event Series"
+                },
+                {
+                    "name": "Event Number",
+                    "value": "03"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Crane Old School White Space"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Kontakte-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Gesang der Jünglinge-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157664572755513"
+                }
+            ]
+        },
+        {
+            "date": ["4/30/2014"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "extra": null,
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["06:30pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "Sound-Space Audio Lab Philadelphia Event Series"
+                },
+                {
+                    "name": "Event Number",
+                    "value": "02"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Crane Old School White Space"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "In Balance",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157664570149573"
+                }
+            ]
+        },
+        {
+            "date": ["3/26/2014"],
+            "city": "Philadelphia",
+            "state": "PA",
+            "extra": null,
+            "classification": [
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["06:30pm"]
+                },
+                {
+                    "name": "Event Series",
+                    "value": "Sound-Space Audio Lab Philadelphia Event Series"
+                },
+                {
+                    "name": "Event Number",
+                    "value": "01"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Crane Old School White Space"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Trichotomic Ecology-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666860886255"
+                }
+            ]
+        },
+        {
+            "date": ["1/12/2014"],
+            "city": "Springfield",
+            "state": "IL",
+            "extra": null,
+            "classification": [
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["03:00pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "The Pharmacy"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Trichotomic Ecology-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666788544096"
+                }
+            ]
+        },
+        {
+            "date": ["1/11/2014"],
+            "city": "St. louis",
+            "state": "MO",
+            "extra": null,
+            "classification": [
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["08:00pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "Lemp Neighborhood Arts Center"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Kontakte-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "Gesang der Jünglinge-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666812143686"
+                }
+            ]
+        },
+        {
+            "date": ["1/10/2014"],
+            "city": "Tulsa",
+            "state": "OK",
+            "extra": null,
+            "classification": [
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:30pm"]
+                },               
+                {
+                    "name": "Venue",
+                    "value": "Living Arts"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Kontakte-1",
+                    "subPart": null,
+                    "format": "four channel loudspeaker array",
+                    "recFormat": "HD 4-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Fixed Media",
+                    "recording": "timeSpacePlace (A-Side)-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666744985341"
+                }
+            ]
+        },
+        {
+            "date": ["1/4/2014"],
+            "city": "Madison",
+            "state": "WI",
+            "extra": null,
+            "classification": [
+                "Fixed Media",
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["06:30pm"]
+                },                
+                {
+                    "name": "Event Series",
+                    "value": "Sound-Space Audio Lab Overture Center Event"
+                },
+                {
+                    "name": "Event Number",
+                    "value": "018"
+                },
+                {
+                    "name": "Venue",
+                    "value": "The Overture Center for the Arts, Promenade Hall"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Vivre-1",
+                    "subPart": null,
+                    "format": "eight channel loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                },
+                {
+                    "type": "Live",
+                    "title": "In Balance",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba/Computer"
+                        }
+                    ],
+                    "format": "eight channel cube loudspeaker array",
+                    "extra": "premiere"
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666860173835"
+                }
+            ]
+        },
+        {
+            "date": ["1/3/2014"],
+            "city": "St. louis",
+            "state": "MO",
+            "extra": null,
+            "classification": [
+                "Fixed Media"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["08:00pm"]
+                },
+                {
+                    "name": "Venue",
+                    "value": "Lemp Neighborhood Arts Center"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Trichotomic Ecology-1",
+                    "subPart": null,
+                    "format": "eight channel cube loudspeaker array",
+                    "recFormat": "HD 8-channel",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/albums/72157666314219310"
+                }
+            ]
+        }
+    ]
+}

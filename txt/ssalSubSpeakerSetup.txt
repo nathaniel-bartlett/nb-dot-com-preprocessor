@@ -1,0 +1,7 @@
+Loudspeaker Setup
+
+[Cube]: Eight loudspeakers should be placed at the vertices of a cube with the listener in the center.
+
+[Quad]: Four loudspeakers should be placed at the vertices of a square with the listener in the center. The tweeters should be at about the same height as the listener's ears.
+
+[Stereo]: Two loudspeakers should be placed in front of the listener at +/- 20° to 30°. If the speakers are too close together, the stereo image will smaller than necessary. If the speakers are too far apart, the stereo image will be lost (sounding like two separate audio channels coming from the two different speakers). The tweeters should be at about the same height as the listener's ears.

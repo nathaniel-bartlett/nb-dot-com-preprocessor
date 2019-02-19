@@ -1,0 +1,1263 @@
+{    
+    "compositions" : [
+        {
+            "title": "Apex Altissimo",
+            "duration": "variable",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "electronic",
+                "computer"
+            ],
+            "date": [2014],
+            "for": "marimba and mallet/body-tracking computer interface; real-time three-dimensional, high-definition, computer-generated sound; and real-time computer notation processing",
+            "composedFor": null,
+            "occasion": null,
+            "score": "realtime",
+            "recordings": null,
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Apical Topography",
+            "duration": "12:00",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic"
+            ],
+            "date": [2017],
+            "for": "Solo Percussion",
+            "composedFor": "Michael Carp",
+            "occasion": null,
+            "score": "print",
+            "recordings": [
+                {
+                    "versionName": "Apical Topography",
+                    "recordingCode": "Apical Topography-1",
+                    "for": "Solo Percussion",
+                    "subParts": null,
+                    "webAudioNumber": 2,
+                    "date": 2017,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A6"],
+                    "duration": "12:11",
+                    "performers": [
+                        {
+                            "name": "Michael Carp",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Score/Recording Video",
+                    "url": "https://vimeo.com/139600576"
+                },
+                {
+                    "name": "Score (PDF)",
+                    "url": "apical_topography_DEMO.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Bright Points",
+            "duration": "03:00",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic"
+            ],
+            "date": [2010],
+            "for": "Vibraphone and Percussion",
+            "composedFor": null,
+            "occasion": null,
+            "score": "print",
+            "recordings": [
+                {
+                    "versionName": "Bright Points",
+                    "recordingCode": "Bright Points-1",
+                    "for": "Vibraphone and Percussion",
+                    "subParts": null,
+                    "webAudioNumber": 9,
+                    "date": 2017,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A8"],
+                    "duration": "02:52",
+                    "performers": [
+                        {
+                            "name": "Will Kramer",
+                            "instrument": "Vibraphone"
+                        },
+                        {
+                            "name": "Will Kramer",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Score/Recording Video",
+                    "url": "https://vimeo.com/183031356"
+                },
+                {
+                    "name": "Score (PDF)",
+                    "url": "bright_points_DEMO.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Campanology Improvisation 1",
+            "duration": "25:00",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "computer"
+            ],
+            "date": [2017],
+            "for": "computer-processed glockenspiel",
+            "composedFor": "Stazione di Topolò",
+            "occasion": "ToBeContinued...2017",
+            "score": null,
+            "recordings": [
+                {
+                    "versionName": "Campanology Improvisation 1",
+                    "recordingCode": "Campanology Improvisation 1-1",
+                    "for": "computer-processed glockenspiel",
+                    "subParts": null,
+                    "webAudioNumber": null,
+                    "date": 2017,
+                    "labelAndCode": null,
+                    "duration": "30:00",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "glockenspiel and Computer"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [                        
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Cronometro",
+            "duration": "05:00",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "indeterminate"
+            ],
+            "date": [2015],
+            "for": "Unspecified Time-Based Media (Open Instrumentation)",
+            "composedFor": "Payton MacDonald",
+            "occasion": "Sonic Divide Project",
+            "score": "print",
+            "recordings": [
+                {
+                    "versionName": "Cronometro_Bugbee_Duo",
+                    "recordingCode": "Cronometro_Bugbee_Duo-1",
+                    "for": "Percussion Duo",
+                    "subParts": null,
+                    "webAudioNumber": 8,
+                    "date": 2017,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A8"],
+                    "duration": "05:12",
+                    "performers": [
+                        {
+                            "name": "Fred Bugbee",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [                        
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                },
+                {
+                    "versionName": "Cronometro_Palter_Solo",
+                    "recordingCode": "Cronometro_Palter_Solo-1",
+                    "for": "Solo Percussion",
+                    "subParts": null,
+                    "webAudioNumber": 6,
+                    "date": 2017,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A8"],
+                    "duration": "05:18",
+                    "performers": [
+                        {
+                            "name": "Morris Palter",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [                        
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                },
+                {
+                    "versionName": "Cronometro_Palter_Quartet",
+                    "recordingCode": "Cronometro_Palter_Quartet-1",
+                    "for": "Percussion Quartet",
+                    "subParts": null,
+                    "webAudioNumber": 4,
+                    "date": 2017,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A8"],
+                    "duration": "05:22",
+                    "performers": [
+                        {
+                            "name": "Morris Palter",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 8-channel",
+                            "channels": 8,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                   
+            ],
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Videoscore",
+                    "url": "https://vimeo.com/195220027"
+                },
+                {
+                    "name": "Linear Score",
+                    "url": "cronometro_linear-score_DEMO.pdf"
+                },
+                {
+                    "name": "Multi-Page Score",
+                    "url": "cronometro_multi-page_DEMO.pdf"
+                },
+                {
+                    "name": "Score/Recording Video With Fred Bugbee Duo",
+                    "url": "https://vimeo.com/201964769"
+                },
+                {
+                    "name": "Score/Recording Video With Morris Palter Quartet",
+                    "url": "https://vimeo.com/195218232"
+                },
+                {
+                    "name": "Score/Recording Video With Morris Palter Solo",
+                    "url": "https://vimeo.com/195218254"
+                },
+                {
+                    "name": "Video Art by Toby Kaufmann-Buhler with Fred Bugbee Duo",
+                    "url": "https://vimeo.com/217342956"
+                },
+                {
+                    "name": "Video Art by Toby Kaufmann-Buhler with Morris Palter Solo",
+                    "url": "https://vimeo.com/217874893"
+                },
+                {
+                    "name": "Live Solo Performance Video by Payton MacDonald",
+                    "url": "https://vimeo.com/199543312"
+                }
+            ]
+        },
+        {
+            "title": "(((clang)))",
+            "duration": "variable",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "computer"
+            ],
+            "date": [2012],
+            "for": "Marimba and Metal Objects; Real-Time Three Dimensional, High-Definition, Computer-Generated Sound; and Real-Time Computer Notation Processing",
+            "composedFor": null,
+            "occasion": null,
+            "score": "realtime",
+            "recordings": [
+                {
+                    "versionName": "(((clang)))",
+                    "recordingCode": "(((clang)))-1",
+                    "for": "Marimba and Metal Objects; Real-Time Three Dimensional, High-Definition, Computer-Generated Sound; and Real-Time Computer Notation Processing",
+                    "subParts": null,
+                    "webAudioNumber": 13,
+                    "date": 2012,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A3"],
+                    "duration": "40:12",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba and Computer"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 8-channel",
+                            "channels": 8,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Heap",
+            "duration": "variable",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "computer"
+            ],
+            "date": [2010],
+            "for": "Percussion and Real-Time Three Dimensional, High-Definition, Computer-Generated Sound",
+            "composedFor": "Andrée Valley",
+            "occasion": "Exhibition at Higher Fire, Madison, WI",
+            "score": null,
+            "recordings": [
+                {
+                    "versionName": "Heap",
+                    "recordingCode": "Heap-1",
+                    "for": "Percussion and Real-Time Three Dimensional, High-Definition, Computer-Generated Sound",
+                    "subParts": null,
+                    "webAudioNumber": 16,
+                    "date": 2010,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A1"],
+                    "duration": "17:30",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Percussion and Computer"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 8-channel",
+                            "channels": 8,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Impulse Response",
+            "duration": "11:00",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic"
+            ],
+            "date": [2016],
+            "for": "Four Percussionists Playing Six Snare Drums Each",
+            "composedFor": "Lee Vinson",
+            "occasion": null,
+            "score": "print",
+            "recordings": [
+                {
+                    "versionName": "Impulse Response",
+                    "recordingCode": "Impulse Response-1",
+                    "for": "Four Percussionists Playing Six Snare Drums Each",
+                    "subParts": null,
+                    "webAudioNumber": 5,
+                    "date": 2017,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A8"],
+                    "duration": "10:32",
+                    "performers": [
+                        {
+                            "name": "Lee Vinson",
+                            "instrument": "Snare Drums"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 8-channel",
+                            "channels": 8,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Score/Recording Video",
+                    "url": "https://vimeo.com/160520053"
+                },
+                {
+                    "name": "Score (PDF)",
+                    "url": "impulse_response_DEMO.pdf"
+                }
+            ]
+        },
+        {
+            "title": "In Balance",
+            "duration": "variable",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "electronic",
+                "computer"
+            ],
+            "date": [2014],
+            "for": "marimba and mallet/body-tracking computer interface; real-time three-dimensional, high-definition, computer-generated sound; and real-time computer notation processing",
+            "composedFor": null,
+            "occasion": null,
+            "score": "realtime",
+            "recordings": null,
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Luminous Machine",
+            "duration": "13:00",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic"
+            ],
+            "date": [2011],
+            "for": "Solo Percussion",
+            "composedFor": null,
+            "occasion": null,
+            "score": "print",
+            "recordings": [
+                {
+                    "versionName": "Luminous Machine",
+                    "recordingCode": "Luminous Machine-1",
+                    "for": "Solo Percussion",
+                    "subParts": null,
+                    "webAudioNumber": 0,
+                    "date": 2017,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A6"],
+                    "duration": "13:03",
+                    "performers": [
+                        {
+                            "name": "Michael Carp",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Score/Recording Video",
+                    "url": "https://vimeo.com/145801727"
+                },
+                {
+                    "name": "Score (PDF)",
+                    "url": "luminous_machine_DEMO.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Neoteric Topology",
+            "duration": "variable",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "computer"
+            ],
+            "date": [2015],
+            "for": "Marimba and Mallet/Body-Tracking Computer Interface; Real-Time Three Dimensional, High-Definition, Computer-Generated Sound; and Real-Time Computer Notation Processing",
+            "composedFor": null,
+            "occasion": null,
+            "score": "realtime",
+            "recordings": [
+                {
+                    "versionName": "Neoteric Topology",
+                    "recordingCode": "Neoteric Topology-1",
+                    "for": "Marimba and Mallet/Body-Tracking Computer Interface; Real-Time Three Dimensional, High-Definition, Computer-Generated Sound; and Real-Time Computer Notation Processing",
+                    "subParts": null,
+                    "webAudioNumber": 10,
+                    "date": 2017,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A5"],
+                    "duration": "37:38",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba and Computer"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 8-channel",
+                            "channels": 8,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Networks",
+            "duration": "08:00",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic"
+            ],
+            "date": [2010],
+            "for": "Solo Flute",
+            "composedFor": null,
+            "occasion": null,
+            "score": "print",
+            "recordings": [
+                {
+                    "versionName": "Networks",
+                    "recordingCode": "Networks-1",
+                    "for": "Solo Flute",
+                    "subParts": null,
+                    "webAudioNumber": 3,
+                    "date": 2017,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A8"],
+                    "duration": "07:48",
+                    "performers": [
+                        {
+                            "name": "Elizabeth Marshall",
+                            "instrument": "Flute"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Score/Recording Video",
+                    "url": "https://vimeo.com/167473452"
+                },
+                {
+                    "name": "Score (PDF)",
+                    "url": "networks_DEMO.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Solar Sequence",
+            "duration": "15:00",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic"
+            ],
+            "date": [2017],
+            "for": "Four Glockenspiels",
+            "composedFor": null,
+            "occasion": null,
+            "score": "print",
+            "recordings": [
+                {
+                    "versionName": "Solar Sequence",
+                    "recordingCode": "Solar Sequence-1",
+                    "for": "Four Glockenspiels",
+                    "subParts": null,
+                    "webAudioNumber": 1,
+                    "date": 2017,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A6"],
+                    "duration": "15:15",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Glockenspiel"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 8-channel",
+                            "channels": 8,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Score/Recording Video",
+                    "url": "https://vimeo.com/223492873"
+                },
+                {
+                    "name": "Score (PDF)",
+                    "url": "solar_sequence_DEMO_C.pdf"
+                }
+            ]
+        },
+        {
+            "title": "Star_Birth",
+            "duration": "20:00",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic"
+            ],
+            "date": [2008, 2010],
+            "for": "Solo Percussion",
+            "composedFor": "Justin Alexander",
+            "occasion": null,
+            "score": "print",
+            "recordings": [
+                {
+                    "versionName": "Star_Birth",
+                    "recordingCode": "Star_Birth-1",
+                    "for": "Solo Percussion",
+                    "subParts": null,
+                    "webAudioNumber": 15,
+                    "date": 2010,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A1"],
+                    "duration": "20:00",
+                    "performers": [
+                        {
+                            "name": "Justin Alexander",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Score/Recording Video",
+                    "url": "https://vimeo.com/139600576"
+                },
+                {
+                    "name": "Score (PDF)",
+                    "url": "apical_topography_DEMO.pdf"
+                }
+            ]
+        },
+        {
+            "title": "timeSpacePlace",
+            "duration": "variable",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "computer"
+            ],
+            "date": [2013],
+            "for": "Marimba and Mallet/Body-Tracking Computer Interface; Real-Time Three Dimensional, High-Definition, Computer-Generated Sound; and Real-Time Computer Notation Processing",
+            "composedFor": null,
+            "occasion": null,
+            "score": "realtime",
+            "recordings": [
+                {
+                    "versionName": "timeSpacePlace (A-Side)",
+                    "recordingCode": "timeSpacePlace (A-Side)-1",
+                    "for": "Marimba and Mallet/Body-Tracking Computer Interface; Real-Time Three Dimensional, High-Definition, Computer-Generated Sound; and Real-Time Computer Notation Processing",
+                    "subParts": null,
+                    "webAudioNumber": 11,
+                    "date": 2013,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A4"],
+                    "duration": "22:15",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba and Computer"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 8-channel",
+                            "channels": 8,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                },
+                {
+                    "versionName": "timeSpacePlace (B-Side)",
+                    "recordingCode": "timeSpacePlace (B-Side)-1",
+                    "for": "Marimba and Mallet/Body-Tracking Computer Interface; Real-Time Three Dimensional, High-Definition, Computer-Generated Sound; and Real-Time Computer Notation Processing",
+                    "subParts": null,
+                    "webAudioNumber": 12,
+                    "date": 2013,                    
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A4"],
+                    "duration": "22:15",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba and Computer"
+                        }
+                    ],
+                    "composer": [
+                        "Nathaniel Bartlett"
+                    ],
+                    "formats": [
+                        {
+                            "name": "HD 8-channel",
+                            "channels": 8,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },  
+        {
+            "title": "Trichotomic Ecology",
+            "duration": "variable",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "computer"
+            ],
+            "date": [2011],
+            "for": "Marimba, Percussion, and Viola; Real-Time Three Dimensional, High-Definition, Computer-Generated Sound; and Real-Time Computer Notation Processing",
+            "composedFor": null,
+            "occasion": null,
+            "score": "realtime",
+            "recordings": [
+                {
+                    "versionName": "Trichotomic Ecology",
+                    "recordingCode": "Trichotomic Ecology-1",
+                    "for": "Marimba, Percussion, and Viola; Real-Time Three Dimensional, High-Definition, Computer-Generated Sound; and Real-Time Computer Notation Processing",
+                    "subParts": null,
+                    "webAudioNumber": 14,
+                    "date": 2011,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A2"],
+                    "duration": "42:54",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba and Computer"
+                        },
+                        {
+                            "name": "Geoff Brady",
+                            "instrument": "Percussion"
+                        },
+                        {
+                            "name": "Nils Bultmann",
+                            "instrument": "Viola"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [
+                        {
+                            "name": "HD 8-channel",
+                            "channels": 8,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },      
+        {
+            "title": "Wave Energy",
+            "duration": "07:00",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic"
+            ],
+            "date": [2016],
+            "for": "Violin, Vibraphone, and Percussion",
+            "composedFor": null,
+            "occasion": null,
+            "score": "print",
+            "recordings": [
+                {
+                    "versionName": "Wave Energy",
+                    "recordingCode": "Wave Energy-1",
+                    "for": "Violin, Vibraphone, and Percussion",
+                    "subParts": null,
+                    "webAudioNumber": 7,
+                    "date": 2017,
+                    "labelAndCode": ["Sound-Space Audio Lab,SSAL-A8"],
+                    "duration": "06:37",
+                    "performers": [
+                        {
+                            "name": "David Felberg",
+                            "instrument": "Violin"
+                        },
+                        {
+                            "name": "Will Kramer",
+                            "instrument": "Vibraphone"
+                        },
+                        {
+                            "name": "Will Kramer",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [                        
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": [
+                {
+                    "name": "Score/Recording Video",
+                    "url": "https://vimeo.com/182463528"
+                },
+                {
+                    "name": "Score (PDF)",
+                    "url": "wave_energy_DEMO.pdf"
+                }
+            ]
+        },
+        {
+            "title": "NEXT_APEX_SF",
+            "duration": "variable",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "electronic",
+                "computer"
+            ],
+            "date": [2015, 2017],
+            "for": "marimba and mallet/body-tracking computer interface; real-time three-dimensional, high-definition, computer-generated sound; and real-time computer notation processing",
+            "composedFor": null,
+            "occasion": null,
+            "score": "realtime",
+            "recordings": null,
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Next Apex",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "electronic",
+                "computer"
+            ],
+            "date": [2015],
+            "for": "marimba and mallet/body-tracking computer interface; real-time three-dimensional, high-definition, computer-generated sound; and real-time computer notation processing",
+            "composedFor": null,
+            "occasion": null,
+            "score": "realtime",
+            "recordings": null,
+            "mediaLinksOnWebsite": null
+        }
+    ]
+}
+

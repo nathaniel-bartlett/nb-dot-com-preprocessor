@@ -1,0 +1,266 @@
+<!doctype html>
+
+<html>
+<head>
+  <title>NATHANIEL BARTLETT // SOUND-SPACE AUDIO LAB</title>
+  <meta name="description" content="composer - performer - technologist" />
+  <meta property="og:title" content="NATHANIEL BARTLETT // SSAL" />
+  <meta property="og:description" content="composer - performer - technologist" />
+  <meta property="og:url" content="http://nathanielbartlett.com" />
+  <meta property="og:image" content="photo/cover-1.jpg" />
+  <meta charset="utf-8">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="ico/favicon.ico" type="image/x-icon" />	
+  <link rel="stylesheet" href="css/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+</head>
+
+<body class="background">
+
+<div id="headerImage">
+  <img id="logo" src="svg/logo.svg" alt="logo" height="80%">
+</div>
+
+<div id="dogEar">
+  <img id="dogEarSvg" src="svg/dog-ear-top-left.svg" alt="dog-ear" height="100" width="100">
+</div>
+
+<div id="menuIcons">
+  <i class="fa fa-bars" id="menu-bars" aria-hidden="true" onclick="openNav()"></i>
+</div>
+
+<nav id="dogEarNav" class="standardText linkButtons">
+  <div id="menu-container" class="maxWidth1200">
+    <div id="nav-list">
+      <span><a onclick="navJump('top')"><span class="menuNumber">00</span>&nbsp;&nbsp;PAGE TOP</a></span><!--
+      --><span id ="firstMenuButton"><a onclick="navJump('connect')"><span class="menuNumber">01</span>&nbsp;&nbsp;&nbsp;CONNECT</a></span><!--
+      --><span><a onclick="navJump('introduction')"><span class="menuNumber">02</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;INTRO</a></span><!--
+      --><span><a onclick="navJump('discographySection')"><span class="menuNumber">03</span>&nbsp;&nbsp;&nbsp;&nbsp;DISCOG</a></span><!--
+      --><span><a onclick="navJump('marElec')"><span class="menuNumber">04</span>&nbsp;MARIMBA++</a></span><!--
+      --><span><a onclick="navJump('ssal')"><span class="menuNumber">05</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SSAL</a></span><!--
+      --><span><a onclick="navJump('photoVideo')"><span class="menuNumber">06</span>&nbsp;PHOTO/VID</a></span><!--
+      --><span><a onclick="navJump('events')"><span class="menuNumber">07</span>&nbsp;&nbsp;&nbsp;&nbsp;EVENTS</a></span><!--
+      --><span><a onclick="navJump('scores')"><span class="menuNumber">08</span>&nbsp;&nbsp;&nbsp;&nbsp;SCORES</a></span>
+    </div>
+  </div>
+</nav>
+
+<div id="navShade"></div>
+
+<section id="downArrow">
+  <img src="svg/big-arrow.svg" alt="" height="326" width="151"></img>
+</section>
+
+<section id="connect">
+  <img class="sectionDogEar" src="svg/dog-ear-section-number.svg" alt="section number" height="100" width="100"></img>
+  <span class="sectionNumber">01</span>
+  <div class="sectionHeader">
+    <p>CONNECT</p>
+  </div>
+  <div class="buttonGroup maxWidth1200 connect">
+       <a href="https://nbssal.bandcamp.com" target="_blank">BANDCAMP</a><!--
+    --><a href="mailto:office@soundspaceaudiolab.com">EMAIL</a><!--
+    --><a href="http://eepurl.com/baJXpX" target="_blank">EMAIL&nbsp;LIST</a><!--
+    --><a href="https://www.facebook.com/nb.ssal" target="_blank">FACEBOOK</a><!--
+    --><a href="https://www.flickr.com/photos/nb-ssal/albums" target="_blank">FLICKR</a><!--
+    --><a href="https://github.com/nathaniel-bartlett" target="_blank">GITHUB</a><!--
+    --><a href="https://instagram.com/nathaniel.bartlett.ssal" target="_blank">INSTAGRAM</a><!--
+    --><a href="https://issuu.com/nb-ssal" target="_blank">ISSUU</a><!--
+    --><a href="https://www.linkedin.com/in/nathaniel-bartlett/" target="_blank">LINKEDIN</a><!--
+    --><a href="https://soundcloud.com/nb-ssal" target="_blank">SOUNDCLOUD</a><!--
+    --><a href="https://twitter.com/nbssal" target="_blank">TWITTER</a><!--
+    --><a href="https://vimeo.com/nbssal" target="_blank">VIMEO</a><!--
+    --><a href="https://www.youtube.com/channel/UCHqQCMjZtPzym0AsfIFQjwQ" target="_blank">YOUTUBE</a>
+  </div>
+</section>
+
+<section id="introduction">
+  <img class="sectionDogEar" src="svg/dog-ear-section-number.svg" alt="section number" height="100" width="100"></img>
+  <span class="sectionNumber">02</span>
+  <div class="sectionHeader">
+    <p>INTRODUCTION</p>
+  </div>
+  <!--
+  <div class="buttonGroup topPad40px maxWidth1200 centerIt">
+    <a href="tours/prospectus_NBSSAL.pdf">PROSPECTUS (PDF)</a>
+  </div>
+  -->
+  <div class="maxWidth1200 pad36px">
+    <workDescription>
+    <biography>
+    <articlesAndInterviews>                
+  </div>
+</section>
+
+<section id="discographySection">
+  <img class="sectionDogEar" src="svg/dog-ear-section-number.svg" alt="section number" height="100" width="100"></img>
+  <span class="sectionNumber">03</span>
+  <div class="sectionHeader">
+    <p>DISCOGRAPHY</p>
+  </div>
+
+<div id="dogEarBottomButton">
+  <img id="dogEarBottomSvg" src="svg/dog-ear-bottom-left.svg" alt="dog-ear-bottom" height="100" width="100">
+
+</div>
+<div>
+  <i class="fa fa-expand" id="audioExpand" aria-hidden="true" onclick="maxPlayerArea()"></i>
+  <i id="audioGhostButton" aria-hidden="true" onclick="maxPlayerArea()"></i>
+</div>
+
+<div class="topMar40px"></div>
+
+<div id="discography" class="maxWidth2000">
+  <div id=discography-tiles>
+    
+    <div id="disc-col-1" class="disc-cols">
+      <discography>
+    </div>
+
+    <div id="disc-col-2" class="disc-cols">      
+    </div>
+
+    <div id="disc-col-3" class="disc-cols"> 
+    </div>
+
+    <div id="disc-col-4" class="disc-cols">
+    </div>
+
+  </div> <!-- tiles -->
+</div>
+</section>
+
+<audio id="audio" onended="onEnded()"></audio>
+
+<div id="audioPlayerContainer">
+  <div id="audioPlayer">
+    <div id="audioControlsOuter">
+      <div id="minAudioPlayer" onclick="minPlayerArea()"><i class="fa fa-minus-circle playerButtons" aria-hidden="true"></i></div>
+      <div id="closeAudioPlayer" onclick="closeAudio()"><i class="fa fa-times-circle playerButtons" aria-hidden="true"></i></div>
+      <div id="playAudioPlayer" onclick="playAudio()" class="audioIsPlaying"><i class="fa fa-pause-circle playerButtons" aria-hidden="true"></i></div>
+      <div id="infoAudioPlayer" onclick="infoAudio()" class="audioInfoButton"><i class="fa fa-info-circle playerButtons" aria-hidden="true"></i></div>
+      <div id="audioPlayerClock">--:--</div>
+      <div class="afterDots"></div>
+    </div>
+
+    <div id="dotsOuter"></div>
+    <div class="afterDots"></div>
+    <div id="nowPlaying"></div>
+
+  </div>
+</div>
+
+<div class="toAllowMargin"></div>
+
+<div id="audioPlayerInfoDiv">
+  <div id="audioPlayerInfoDivCont">
+    <div id="audioPlayerInfoDivIn" class="standardText">
+      <div class="infoPopupClose"><i class="fa fa-times-circle" aria-hidden="true" onclick="infoAudio()"></i></div>
+
+      <h3>THE SSAL DOT MATRIX AUDIO FILE PLAYER</h3>
+      <div class="toAllowMargin"></div>
+      <p class="infoBoxParaLast">This audio file player allows the quick perusal of all audio files on this website, even very long files. Click the minus icon and the player will hide in the lower left corner, so you can listen while continuing to navigate around the website.</p>
+      <p class="infoBoxParaLast"><b>The Dots:</b> To skip, click on a dot. Each dot represents 10 seconds, and as the file plays, each dot loses its opacity.
+    </div>
+  </div>
+</div>
+
+<div id="audioInfoShade"></div>
+
+<section id="marElec" class="topMar40px">
+  <img class="sectionDogEar" src="svg/dog-ear-section-number.svg" alt="section number" height="100" width="100"></img>
+  <span class="sectionNumber">04</span>
+  <div class="sectionHeader">
+    <p>MARIMBA++</p>
+  </div>
+  <div class="maxWidth1200 topPad40px">
+    <marimbapp>
+    <mcWorks>
+  </div>
+</section>
+
+<section id="ssal" class="topMar40px">
+  <img class="sectionDogEar" src="svg/dog-ear-section-number.svg" alt="section number" height="100" width="100"></img>
+  <span class="sectionNumber">05</span>
+  <div class="sectionHeader">
+    <p>SOUND-SPACE AUDIO LAB</p>
+  </div>
+  <div class="topPad40px maxWidth1200"> <!-- boxes -->
+    <ssalStudio>
+    <ssalMMEDS>
+    <ssalRecordings>
+    <ssalFMRP>
+    <ssalGARP>
+    <ssalDonate>
+  </div> <!-- boxes -->
+</section>
+
+<section id="photoVideo" class="topMar40px">
+  <img class="sectionDogEar" src="svg/dog-ear-section-number.svg" alt="section number" height="100" width="100"></img>
+  <span class="sectionNumber">06</span>
+  <div class="sectionHeader">
+    <p>PHOTO/VIDEO</p>
+  </div>
+  <div class="maxWidth1200">
+    <p class="boldText pad32px">COMPLETE PHOTO/VIDEO ARCHIVES</p>
+    <div class="buttonGroup pad32px centerIt photoVideoContainer">
+         <a href="https://www.flickr.com/photos/nb-ssal/albums" target="_blank">FLICKR</a><!--
+      --><a href="https://vimeo.com/nbssal" target="_blank">VIMEO</a><!--
+      --><a href="https://www.youtube.com/channel/UCHqQCMjZtPzym0AsfIFQjwQ" target="_blank">YOUTUBE</a>
+    </div>
+    <p class="boldText pad28px">SELECTED PHOTO GALLERY LINKS</p>
+    <div class="buttonGroup pad32px centerIt photoVideoContainer">
+         <a href="https://www.flickr.com/photos/nb-ssal/sets/72157649517676413" target="_blank">ALBUM COVERS</a><!--
+      --><a href="https://www.flickr.com/photos/nb-ssal/collections/72157660052471158/" target="_blank">RECENT EVENTS</a><!--
+      --><a href="https://www.flickr.com/photos/nb-ssal/sets/72157651775631146" target="_blank">SSAL MOBILE MULTI-CHANNEL ELECTROACOUSTIC DIFFUSION SYSTEM</a><!--
+      --><a href="https://www.flickr.com/photos/nb-ssal/sets/72157652184221264" target="_blank">SSAL RECORDING STUDIO</a>
+    </div>
+    <p class="boldText pad28px">SELECTED VIDEO GALLERY LINKS</p>
+    <div class="buttonGroup pad32px centerIt photoVideoContainer">
+         <a href="https://vimeo.com/album/3320387" target="_blank">A/V PROJECTS</a><!--
+      --><a href="https://vimeo.com/album/3292869" target="_blank">DISCOGRAPHY</a><!--
+      --><a href="https://vimeo.com/album/3320391" target="_blank">LIVE</a><!--
+      --><a href="https://vimeo.com/album/3569432" target="_blank">SCORES W/ RECORDING</a>
+    </div>
+    <p class="boldText pad28px">DOWNLOAD HIGH-RESOLUTION IMAGES FOR PRESS (DROPBOX)</p>
+    <div class="buttonGroup pad32px centerIt photoVideoContainer">
+         <a href="https://www.dropbox.com/sh/jcf8c0izvs75uor/AACdCvayT0Fu6FVaDlAmhEqQa?dl=0" target="_blank">ALBUM COVERS</a><!--
+      --><a href="https://www.dropbox.com/sh/qjaoatpfesbwpeu/AAAD6KZI3Lq0cPsORtr8saDZa?dl=0" target="_blank">PHOTOS OF N. BARTLETT</a><!--
+      --><a href="https://www.dropbox.com/sh/xxn1mqtr3jhm29t/AADuZ-8o8q_l0pPqyQeX1OFRa?dl=0" target="_blank">SSAL PHYSICAL MEDIA</a>
+    </div>
+  </div>
+</section>
+
+<section id="events" class="topMar40px">
+  <img class="sectionDogEar" src="svg/dog-ear-section-number.svg" alt="section number" height="100" width="100"></img>
+  <span class="sectionNumber">07</span>
+  <div class="sectionHeader">
+    <p>EVENTS</p>
+  </div>
+  <div class="maxWidth1200 topMar40px">
+    <eventsComplete>
+    <eventsShort>
+  </div>
+</section>
+
+<section id="scores" class="topMar40px">
+  <img class="sectionDogEar" src="svg/dog-ear-section-number.svg" alt="section number" height="100" width="100"></img>
+  <span class="sectionNumber">08</span>
+  <div class="sectionHeader">
+    <p>SCORES</p>
+  </div>
+  <div class="maxWidth1200 topMar40px">
+    <scores>
+  </div>
+</section>
+
+<footer class="mar36px">
+  <div class="footerWatermark">
+    <p>COPYRIGHT <i class="fa fa-copyright" aria-hidden="true"></i> 2019 NATHANIEL BARTLETT &#8226; ALL RIGHTS RESERVED<br>WEBSITE DESIGNED AND CODED BY NATHANIEL BARTLETT</p>
+  </div>
+</footer>
+
+<script src="js/js1.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,689 @@
+{
+    "otherRepertoire" : [
+        {
+            "title": "Interlude",
+            "composer": ["Greg Wilder"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "computer"
+            ],
+            "date": [2004],
+            "for": "Marimba and Four-Channel, High-Definition, Computer-Generated Sound",
+            "composedFor": null,
+            "occasion": null,
+            "recordings": [
+                {
+                    "versionName": "Interlude",
+                    "recordingCode": "Interlude-1",
+                    "for": "Marimba and Four-Channel, High-Definition, Computer-Generated Sound",
+                    "subParts": null,
+                    "webAudioNumber": 19,
+                    "date": 2006,
+                    "labelAndCode": ["Albany Records,Troy 855"],
+                    "duration": "05:43",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba"
+                        }
+                    ],                    
+                    "composer": ["Greg Wilder"],                   
+                    "formats": [
+                        {
+                            "name": "HD 5-channel",
+                            "channels": 5,
+                            "bit depth": null,
+                            "sampling rate": null,
+                            "method": "DSD"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": null,
+                            "sampling rate": null,
+                            "method": "DSD"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Kontakte",
+            "composer": ["Karlheinz Stockhausen"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "electronic"
+            ],
+            "date": [1958, 1960],
+            "for": "four-channel electronic sound (high-definition digital transfer from original analog tape)",
+            "composedFor": null,
+            "occasion": null,
+            "recordings": [
+                {
+                    "versionName": "Kontakte",
+                    "recordingCode": "Kontakte-1",
+                    "for": "four-channel electronic sound (high-definition digital transfer from original analog tape)",
+                    "subParts": null,
+                    "webAudioNumber": null,
+                    "date": 1960,
+                    "labelAndCode": null,
+                    "duration": "35:30",
+                    "performers": null,                    
+                    "composer": ["Karlheinz Stockhausen"],                   
+                    "formats": [
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 48000,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Opening",
+            "composer": ["Philip Glass"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic"
+            ],
+            "date": [1981],
+            "for": "Solo Piano",
+            "composedFor": null,
+            "occasion": null,
+            "recordings": [
+                {
+                    "versionName": "Opening",
+                    "recordingCode": "Opening-1",
+                    "for": "Solo Marimba",
+                    "subParts": null,
+                    "webAudioNumber": 17,
+                    "date": 2006,
+                    "labelAndCode": ["Albany Records,Troy 855"],
+                    "duration": "06:31",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba"
+                        }
+                    ],
+                    "composer": ["Philip Glass"],                    
+                    "formats": [
+                        {
+                            "name": "HD 5-channel",
+                            "channels": 5,
+                            "bit depth": null,
+                            "sampling rate": null,
+                            "method": "DSD"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": null,
+                            "sampling rate": null,
+                            "method": "DSD"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Precipice",
+            "composer": ["Allan Schindler"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "computer"
+            ],
+            "date": [2003],
+            "for": "Marimba and Four-Channel, High-Definition, Computer-Generated Sound",
+            "composedFor": null,
+            "occasion": null,
+            "recordings": [
+                {
+                    "versionName": "Precipice",
+                    "recordingCode": "Precipice-1",
+                    "for": "Marimba and Four-Channel, High-Definition, Computer-Generated Sound",
+                    "subParts": null,
+                    "webAudioNumber": 18,
+                    "date": 2006,
+                    "labelAndCode": ["Albany Records,Troy 855"],
+                    "duration": "17:43",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba"
+                        }
+                    ],
+                    "composer": ["Allan Schindler"],                
+                    "formats": [
+                        {
+                            "name": "HD 5-channel",
+                            "channels": 5,
+                            "bit depth": null,
+                            "sampling rate": null,
+                            "method": "DSD"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": null,
+                            "sampling rate": null,
+                            "method": "DSD"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Silhouettes",
+            "composer": ["Augusta Read Thomas"],
+            "subParts": [
+                {
+                    "title": "Like Toru Takemitsu Crossed With Bill Evans",
+                    "number": 1,
+                    "for": "Solo Marimba",
+                    "composer": ["Augusta Read Thomas"],
+                    "duration": "02:00"
+                },
+                {
+                    "title": "Like Igor Stravinsky Crossed With Thelonious Monk",
+                    "number": 2,
+                    "for": "Solo Marimba",
+                    "composer": ["Augusta Read Thomas"],
+                    "duration": "02:00"
+                },
+                {
+                    "title": "Like Pierre Boulez Crossed With Oscar Peterson",
+                    "number": 3,
+                    "for": "Solo Marimba",
+                    "composer": ["Augusta Read Thomas"],
+                    "duration": "3:45"
+                },
+                {
+                    "title": "Like Béla Bartók Crossed With Art Tatum",
+                    "number": 4,
+                    "for": "Solo Marimba",
+                    "composer": ["Augusta Read Thomas"],
+                    "duration": "02:45"
+                }
+            ],
+            "active": true,
+            "type": [
+                "acoustic"
+            ],
+            "date": [2004],
+            "for": "Solo Marimba",
+            "composedFor": null,
+            "occasion": null,
+            "recordings": [
+                {
+                    "versionName": "Silhouettes",
+                    "recordingCode": "Silhouettes-1",
+                    "for": "Solo Marimba",
+                    "subParts": [
+                        {
+                            "title": "Like Toru Takemitsu Crossed With Bill Evans",
+                            "number": 1,
+                            "duration": "01:57",
+                            "webAudioNumber": 20,
+                            "for": "Solo Marimba",
+                            "performers": [
+                                {
+                                    "name": "Nathaniel Bartlett",
+                                    "instrument": "Marimba"
+                                }
+                            ],
+                            "composer": ["Augusta Read Thomas"]
+                        },
+                        {
+                            "title": "Like Igor Stravinsky Crossed With Thelonious Monk",
+                            "number": 2,
+                            "duration": "01:51",
+                            "webAudioNumber": 21,
+                            "for": "Solo Marimba",
+                            "performers": [
+                                {
+                                    "name": "Nathaniel Bartlett",
+                                    "instrument": "Marimba"
+                                }
+                            ],
+                            "composer": ["Augusta Read Thomas"]
+                        },
+                        {
+                            "title": "Like Pierre Boulez Crossed With Oscar Peterson",
+                            "number": 3,
+                            "duration": "03:44",
+                            "webAudioNumber": 22,
+                            "for": "Solo Marimba",
+                            "performers": [
+                                {
+                                    "name": "Nathaniel Bartlett",
+                                    "instrument": "Marimba"
+                                }
+                            ],
+                            "composer": ["Augusta Read Thomas"]
+                        },
+                        {
+                            "title": "Like Béla Bartók Crossed With Art Tatum",
+                            "number": 4,
+                            "duration": "02:37",
+                            "webAudioNumber": 23,
+                            "for": "Solo Marimba",
+                            "performers": [
+                                {
+                                    "name": "Nathaniel Bartlett",
+                                    "instrument": "Marimba"
+                                }
+                            ],
+                            "composer": ["Augusta Read Thomas"]
+                        }
+                    ],
+                    "date": 2006,
+                    "labelAndCode": ["Albany Records,Troy 855"],
+                    "duration": null,
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba"
+                        }
+                    ],
+                    "composer": ["Augusta Read Thomas"],                  
+                    "formats": [
+                        {
+                            "name": "HD 5-channel",
+                            "channels": 5,
+                            "bit depth": null,
+                            "sampling rate": null,
+                            "method": "DSD"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": null,
+                            "sampling rate": null,
+                            "method": "DSD"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Vermont Counterpoint",
+            "composer": ["Steve Reich"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic"
+            ],
+            "date": [1981],
+            "for": "Piccolos, Flutes, and Alto Flutes",
+            "composedFor": null,
+            "occasion": null,
+            "recordings": [
+                {
+                    "versionName": "Vermont Counterpoint",
+                    "recordingCode": "Vermont Counterpoint-1",
+                    "for": "Marimbas",
+                    "subParts": null,
+                    "webAudioNumber": 24,
+                    "date": 2006,
+                    "labelAndCode": ["Albany Records,Troy 855"],
+                    "duration": "11:20",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Marimba"
+                        }
+                    ],
+                    "composer": ["Steve Reich (Marimba Version N. Bartlett)"],                  
+                    "formats": [
+                        {
+                            "name": "HD 5-channel",
+                            "channels": 5,
+                            "bit depth": null,
+                            "sampling rate": null,
+                            "method": "DSD"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": null,
+                            "sampling rate": null,
+                            "method": "DSD"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Poème Électronique",
+            "composer": ["Edgard Varèse"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "electronic"
+            ],
+            "date": [1958],
+            "for": "five channel electronic sound (high-definition digital transfer from original analog tape)",
+            "composedFor": "Le Corbusiers's Philips pavilion",
+            "occasion": "the 1958 Brussels World Fair",
+            "recordings": [
+                {
+                    "versionName": "Poème Électronique",
+                    "recordingCode": "Poème Électronique-1",
+                    "for": "five channel electronic sound (high-definition digital transfer from original analog tape)",
+                    "subParts": null,
+                    "webAudioNumber": null,
+                    "date": 1958,
+                    "labelAndCode": null,
+                    "duration": "08:05",
+                    "performers": null,                    
+                    "composer": ["Edgard Varèse"],                   
+                    "formats": [
+                        {
+                            "name": "HD 5-channel",
+                            "channels": 5,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Gesang der Jünglinge",
+            "composer": ["Karlheinz Stockhausen"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "electronic"
+            ],
+            "date": [1955, 1956],
+            "for": "four-channel electronic sound (high-definition digital transfer from original analog tape)",
+            "composedFor": null,
+            "occasion": null,
+            "recordings": [
+                {
+                    "versionName": "Gesang der Jünglinge",
+                    "recordingCode": "Gesang der Jünglinge-1",
+                    "for": "four-channel electronic sound (high-definition digital transfer from original analog tape)",
+                    "subParts": null,
+                    "webAudioNumber": null,
+                    "date": 1956,
+                    "labelAndCode": null,
+                    "duration": "13:13",
+                    "performers": null,                    
+                    "composer": ["Karlheinz Stockhausen"],                   
+                    "formats": [
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 48000,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },        
+        {
+            "title": "Sidewinder",
+            "composer": ["Morton Subotnick"],
+            "subParts": [
+                {
+                    "title": "Side One",
+                    "number": 1,
+                    "duration": "14:36"
+                },
+                {
+                    "title": "Side Two",
+                    "number": 2,
+                    "duration": "14:17"
+                }
+            ],
+            "active": true,
+            "type": [
+                "electronic"
+            ],
+            "date": [1971],
+            "for": "four channel tape, created on Buchla analog synthesizer",
+            "composedFor": null,
+            "occasion": null,
+            "recordings": [
+                {
+                    "versionName": "Sidewinder",
+                    "recordingCode": "Sidewinder-1",
+                    "for": "four channel tape, created on Buchla analog synthesizer",
+                    "subParts": [
+                        {
+                            "title": "Side One",
+                            "number": 1,
+                            "duration": "14:36",
+                            "webAudioNumber": null,
+                            "for": "four channel tape, created on Buchla analog synthesizer",
+                            "performers": null,
+                            "composer": ["Morton Subotnick"]
+                        },
+                        {
+                            "title": "Side Two",
+                            "number": 2,
+                            "duration": "14:17",
+                            "webAudioNumber": null,
+                            "for": "four channel tape, created on Buchla analog synthesizer",
+                            "performers": null,
+                            "composer": ["Morton Subotnick"]
+                        }                        
+                    ],
+                    "date": 1971,
+                    "labelAndCode": ["Mode,132"],
+                    "duration": null,
+                    "performers": null,
+                    "composer": ["Morton Subotnick"],                  
+                    "formats": [
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 48000,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD Stereo",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 48000,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Sieben Stufen",
+            "composer": ["Hans Tutschku"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "electronic",
+                "computer"
+            ],
+            "date": [1995],
+            "for": "four channel computer-generated sound, created on a NeXT computer",
+            "composedFor": null,
+            "occasion": null,
+            "recordings": [
+                {
+                    "versionName": "Sieben Stufen",
+                    "recordingCode": "Sieben Stufen-1",
+                    "for": "four channel computer-generated sound, created on a NeXT computer",
+                    "subParts": null,
+                    "webAudioNumber": null,
+                    "date": 1995,
+                    "labelAndCode": null,
+                    "duration": "13:00",
+                    "performers": null,                    
+                    "composer": ["Hans Tutschku"],                   
+                    "formats": [
+                        {
+                            "name": "CD 4-channel",
+                            "channels": 4,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Vivre",
+            "composer": ["Allan Schindler"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "electronic"
+            ],
+            "date": [2008],
+            "for": "three-dimensional, high-definition, computer-generated sound",
+            "composedFor": null,
+            "occasion": null,
+            "recordings": [
+                {
+                    "versionName": "Vivre",
+                    "recordingCode": "Vivre-1",
+                    "for": "three-dimensional, high-definition, computer-generated sound",
+                    "subParts": null,
+                    "webAudioNumber": null,
+                    "date": 2008,
+                    "labelAndCode": null,
+                    "duration": "12:50",
+                    "performers": null,                    
+                    "composer": ["Allan Schindler"],                   
+                    "formats": [
+                        {
+                            "name": "HD 8-channel",
+                            "channels": 8,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD 4-channel",
+                            "channels": 4,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        },
+                        {
+                            "name": "HD 2-channel",
+                            "channels": 2,
+                            "bit depth": 24,
+                            "sampling rate": 88200,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
+            "title": "Word Color",
+            "composer": ["Paul Lansky"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "electronic",
+                "computer"
+            ],
+            "date": [1992],
+            "for": "stereo computer-generated sound, created on a NeXT computer",
+            "composedFor": null,
+            "occasion": null,
+            "recordings": [
+                {
+                    "versionName": "Word Color",
+                    "recordingCode": "Word Color-1",
+                    "for": "stereo computer-generated sound, created on a NeXT computer",
+                    "subParts": null,
+                    "webAudioNumber": null,
+                    "date": 1992,
+                    "labelAndCode": ["Bridge,BCD 9050"],
+                    "duration": "12:52",
+                    "performers": null,                    
+                    "composer": ["Paul Lansky"],                   
+                    "formats": [
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        }
+    ]
+}

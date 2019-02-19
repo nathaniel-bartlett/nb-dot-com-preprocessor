@@ -1,0 +1,134 @@
+{
+    "articles": [
+        {
+            "date": "10/1/2017",
+            "publication": "Percussive Notes",           
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/nov17PN.pdf"
+            }
+        },
+        {
+            "date": "5/1/2016",
+            "publication": "Percussive Notes",          
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/may16PN.pdf"
+            }
+        },
+        {
+            "date": "10/27/2014",
+            "publication": "The Squid's Ear",           
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/10_27_14_squid's_ear.pdf"
+            }
+        }
+    ],
+    "interviews": [
+        {
+            "date": "1/30/2018",
+            "publication": "WORT 89.9 FM, Madison, WI: Back Porch Serenade",           
+            "mediaLink": {
+                "type": "audio",
+                "link": 28
+            }
+        },
+        {
+            "date": "12/16/2017",
+            "publication": "Brutalist Websites",            
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/bws_12-16-17.pdf"
+            }
+        },
+        {
+            "date": "7/21/2017",
+            "publication": "Pasatiempo / Santa Fe New Mexican",     
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/pasatiempo_07-21-17.pdf"
+            }
+        },
+        {
+            "date": "4/18/2017",
+            "publication": "Ascent of Man: Art and More",
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/04-18-17_DOM.pdf"
+            }
+        },
+        {
+            "date": "11/1/2014",
+            "publication": "Percussive Notes",           
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/nov14PN.pdf"
+            }
+        },
+        {
+            "date": "7/1/2014",
+            "publication": "Sound Notion TV: Patch In",
+            "mediaLink": {
+                "type": "audio",
+                "link": 25
+            }
+        },
+        {
+            "date": "3/26/2014",
+            "publication": "The Key",
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/mar26_2014_key.pdf"
+            }
+        },
+        {
+            "date": "10/26/2012",
+            "publication": "Downtown Devil",
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/oct26_2012_metronome.pdf"
+            }
+        },
+        {
+            "date": "1/1/2010",
+            "publication": "Public Radio Tulsa: Studio Tulsa",
+            "mediaLink": {
+                "type": "audio",
+                "link": 26
+            }
+        },
+        {
+            "date": "8/1/2009",
+            "publication": "Percussive Notes",           
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/augSept09PN.pdf"
+            }
+        },
+        {
+            "date": "9/17/2008",
+            "publication": "NUVO",           
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/sept17_08_nuvo.pdf"
+            }
+        },
+        {
+            "date": "4/1/2008",
+            "publication": "Percussive Notes",           
+            "mediaLink": {
+                "type": "pdf",
+                "link": "articlesAndInterviews/apr08PN.pdf"
+            }
+        },
+        {
+            "date": "4/1/2008",
+            "publication": "Wisconsin Public Radio",           
+            "mediaLink": {
+                "type": "audio",
+                "link": 27
+            }
+        }
+    ]
+}

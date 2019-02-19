@@ -1,0 +1,7 @@
+Mobile Multi-Channel electroacoustic Diffusion System
+
+The core of the SSAL mobile multi-channel electroacoustic diffusion sytem is its array of eight loudspeakers and a subwoofer. I designed and built a set of mounts for the loudspeakers which allow them to be mounted on a variety of stands of different heights and rotated 360° vertically and horizontally. Most often, the loudspeaker array is set up in a "cube" format, with the audience in the center.
+
+The SSAL mobile rig uses the electronics (microphones, microphone preamplifier, A/D/A converters, etc.) from my recording studio. This allows me to bring uncompromisingly nuanced, beautiful sounds to all my live events.
+
+Travelling with such an elaborate electroacoustic rig is a sizeable logistical challenge. In order to accomplish the task, I designed and built a set of road cases which use as little space as possible and minimize set-up / tear-down time.

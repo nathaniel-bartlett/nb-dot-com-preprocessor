@@ -1,0 +1,8 @@
+Recordings
+
+Most of my musical activities as a performer and composer involve the use of highly detailed, immersive sound environments. In order to fully capture my works, SSAL recordings use high-definition, multi-channel audio. SSAL recordings are available as two-disc albums with an audio CD and a data DV). The audio CD, containing format 4, is playable on standard CD players. The data DVD contains audio files in formats 1, 2, and 3: [1] HD eight-channel (cube), 24 bit 88.2kHz [2] HD four-channel (quad), 24 bit 88.2kHz [3] HD stereo, 24 bit 88.2kHz [4] CD stereo, 16 bit 44.1kHz.
+
+<ssalSubDynamics>
+<ssalSubSpeakerSetup>
+<ssalSubPhysicalMedia>
+<ssalSubConcertPresentation>
