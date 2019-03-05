@@ -48,7 +48,6 @@ var fmrpWorksObjArr;
 // var photoVideoObjArr;
 var eventsObjArr;
 var eventsShortObjArr;
-var scoresOverview;
 
 //
 // Ultra Hyphenate
@@ -1968,7 +1967,7 @@ function processScoresSection(inFileString, sectionTag) {
     // Make the overview box
     scoresOverviewText = getSectionText('scoresOverview');
     boxTemp = makeTextBox(inFileStringMod, sectionTag, 'Overview', false, 'scoresOverview', true, null);
-    scoreBoxContents = `<p class="infoBoxParaLast">${hyphenTagStart}${scoresOverviewText}${hyphenTagEnd}</p>`;    
+    scoreBoxContents = `<p class="infoBoxParaLast">${hyphenTagStart}${scoresOverviewText}${hyphenTagEnd}</p>`;
     scoreContent += replaceTagWithContent('scoresOverview', boxTemp, scoreBoxContents);
     scoreContent += `\n${tabs}<div class="scoreDots centerIt">${interpunct}${interpunct}${interpunct}${interpunct}${interpunct}</div>`;
 

@@ -10,7 +10,7 @@
                 "Apical Topography-1"
             ],            
             "date": 2017,
-            "labelAndCode": "Sound-Space Audio Lab,SSAL-A6",
+            "labelAndCode": "Sound-Space Audio Lab,SSAL-A7",
             "media": [
                 "Audio CD and Data DVD",
                 "Download"
@@ -38,7 +38,7 @@
                 "Bright Points-1"
             ],            
             "date": 2017,
-            "labelAndCode": "Sound-Space Audio Lab,SSAL-A8",
+            "labelAndCode": "Sound-Space Audio Lab,SSAL-A6",
             "media": [
                 "Audio CD and Data DVD",
                 "Download"
@@ -54,7 +54,7 @@
         },
         {     
             "title": "AV",
-            "active": true,
+            "active": false,
             "contentType": "audio/video",
             "avWorks": [
                 [
