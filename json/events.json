@@ -1,6 +1,45 @@
 {
     "events": [
         {
+            "date": ["6/4/2019"],
+            "city": "Madison",
+            "state": "WI",
+            "extra": null,
+            "classification": [
+                "Radio"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["07:00am", "08:00am"]
+                },
+                {
+                    "name": "Event",
+                    "value": "Joining host Peter Haney on a special pledge-drive edition of his show \"Back Porch Serenade\" for a chat and the broadcast of first composition using electronics, <b>Microseism</b>."
+                },
+                {
+                    "name": "Venue",
+                    "value": "WORT 89.9FM Madison, WI"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Fixed Media",
+                    "recording": "Microseism-1",
+                    "subPart": null,
+                    "format": "CD Stereo",
+                    "recFormat": "CD Stereo",
+                    "extra": null
+                }
+            ],
+            "archive": [
+                {
+                    "type": "Photo",
+                    "link": "https://www.flickr.com/photos/nb-ssal/38770287290/in/album-72157692300992101"
+                }
+            ]
+        },
+        {
             "date": ["9/9/2018"],
             "city": "Madison",
             "state": "WI",

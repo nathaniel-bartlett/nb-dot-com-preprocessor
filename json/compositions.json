@@ -684,6 +684,52 @@
             ]
         },
         {
+            "title": "Microseism",
+            "duration": "04:13",
+            "composer": ["Nathaniel Bartlett"],
+            "subParts": null,
+            "active": true,
+            "type": [
+                "acoustic",
+                "electronic",
+                "computer"
+            ],
+            "date": [2000],
+            "for": "Solo Percussion and Computer-Generated Sounds",
+            "composedFor": null,
+            "occasion": null,
+            "score": "print",
+            "recordings": [
+                {
+                    "versionName": "Microseism",
+                    "recordingCode": "Microseism-1",
+                    "for": "Solo Percussion and Computer-Generated Sounds",
+                    "subParts": null,
+                    "webAudioNumber": 0,
+                    "date": 2000,
+                    "labelAndCode": null,
+                    "duration": "04:13",
+                    "performers": [
+                        {
+                            "name": "Nathaniel Bartlett",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "composer": ["Nathaniel Bartlett"],
+                    "formats": [                        
+                        {
+                            "name": "CD Stereo",
+                            "channels": 2,
+                            "bit depth": 16,
+                            "sampling rate": 44100,
+                            "method": "PCM"
+                        }
+                    ]
+                }                
+            ],
+            "mediaLinksOnWebsite": null
+        },
+        {
             "title": "Neoteric Topology",
             "duration": "variable",
             "composer": ["Nathaniel Bartlett"],
