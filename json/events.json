@@ -1,6 +1,45 @@
 {
     "events": [
         {
+            "date": ["11/14/2019"],
+            "city": "Indianapolis",
+            "state": "IN",
+            "extra": null,
+            "classification": [
+                "Live"
+            ],
+            "mainDetails": [
+                {
+                    "name": "Time",
+                    "value": ["09:00am", "09:50am"]
+                },
+                {
+                    "name": "Event",
+                    "value": "PASIC (Percussive Arts Society International Convention)"
+                },
+                {
+                    "name": "Venue",
+                    "value": "Wabash Room, Indiana Convention Center"
+                }
+            ],
+            "contents": [
+                {
+                    "type": "Live",
+                    "title": "Cronometro",
+                    "subPart": null,
+                    "performers": [
+                        {
+                            "name": "Payton MacDonald",
+                            "instrument": "Percussion"
+                        }
+                    ],
+                    "format": null,
+                    "extra": null
+                }
+            ],
+            "archive": null
+        },
+        {
             "date": ["6/4/2019"],
             "city": "Madison",
             "state": "WI",

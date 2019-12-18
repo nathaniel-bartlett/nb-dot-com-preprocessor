@@ -303,11 +303,7 @@
         {
             "text": "Wisconsin Institutes for Discovery",
             "url": "https://discovery.wisc.edu"
-        },
-        {
-            "text": "Percussive Arts Society",
-            "url": "http://www.pas.org"
-        },
+        },        
         {
             "text": "Northern Arizona University",
             "url": "https://nau.edu/music"
@@ -631,7 +627,20 @@
         {
             "text": "Augusta Read Thomas",
             "url": "http://www.augustareadthomas.com"
+        },
+        {
+            "text": "PASIC",
+            "url": "https://pasic.org"
+        },
+        {
+            "text": "Percussive Arts Society",
+            "url": "http://www.pas.org"
+        },
+        {
+            "text": "Indiana Convention Center",
+            "url": "https://www.icclos.com"
         }
+
     ],
     "units": [
         "dB",
