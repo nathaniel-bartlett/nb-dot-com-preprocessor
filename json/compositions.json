@@ -82,7 +82,7 @@
                 },
                 {
                     "name": "Score (PDF)",
-                    "url": "scores/apical_topography_DEMO.pdf"
+                    "url": "scores/complete/APICAL_TOPOGRAPHY.pdf"
                 }
             ]
         },
@@ -153,7 +153,7 @@
                 },
                 {
                     "name": "Score (PDF)",
-                    "url": "scores/bright_points_DEMO.pdf"
+                    "url": "scores/complete/BRIGHT_POINTS.pdf"
                 }
             ]
         },
@@ -359,11 +359,11 @@
                 },
                 {
                     "name": "Linear Score",
-                    "url": "scores/cronometro_linear-score_DEMO.pdf"
+                    "url": "scores/complete/CRONOMETRO_ONEPAGE.pdf"
                 },
                 {
                     "name": "Multi-Page Score",
-                    "url": "scores/cronometro_multi-page_DEMO.pdf"
+                    "url": "scores/complete/CRONOMETRO_MULTIPAGE.pdf"
                 },
                 {
                     "name": "Score/Recording Video With Fred Bugbee Duo",
@@ -597,7 +597,7 @@
                 },
                 {
                     "name": "Score (PDF)",
-                    "url": "scores/impulse_response_DEMO.pdf"
+                    "url": "scores/complete/IMPULSE_RESPONSE.pdf"
                 }
             ]
         },
@@ -683,7 +683,7 @@
                 },
                 {
                     "name": "Score (PDF)",
-                    "url": "scores/luminous_machine_DEMO.pdf"
+                    "url": "scores/complete/LUMINOUS_MACHINE.pdf"
                 }
             ]
         },
@@ -862,7 +862,7 @@
                 },
                 {
                     "name": "Score (PDF)",
-                    "url": "scores/networks_DEMO.pdf"
+                    "url": "scores/complete/NETWORKS.pdf"
                 }
             ]
         },
@@ -936,7 +936,7 @@
                 },
                 {
                     "name": "Score (PDF)",
-                    "url": "scores/solar_sequence_DEMO_C.pdf"
+                    "url": "scores/complete/SOLAR_SEQUENCE.pdf"
                 }
             ]
         },
@@ -1003,7 +1003,7 @@
                 },
                 {
                     "name": "Score (PDF)",
-                    "url": "scores/star_birth_DEMO.pdf"
+                    "url": "scores/complete/STAR_BIRTH.pdf"
                 }
             ]
         },
@@ -1267,7 +1267,7 @@
                 },
                 {
                     "name": "Score (PDF)",
-                    "url": "scores/wave_energy_DEMO.pdf"
+                    "url": "scores/complete/WAVE_ENERGY.pdf"
                 }
             ]
         },

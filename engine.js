@@ -1925,7 +1925,7 @@ function processEventsShortSection(inFileString, sectionTag) {
 
             '\n',
             `${tabs}<span class="article-date">${dateArray.join(` ${eventDateArrow} `)}</span>\n`,
-            `${tabs}${tab}${hyphenTagStart}${allShortEvents[i].city}${hyphenTagEnd} &#8226;\n`,
+            `${tabs}${tab}${hyphenTagStart}${allShortEvents[i].city}, ${allShortEvents[i].state}${hyphenTagEnd} &#8226;\n`,
             `${tabs}${tab}${performanceNumber}${hyphenTagStart}${addHyperlinks(allShortEvents[i].venue)}${hyphenTagEnd}\n`
 
         ].join('');
@@ -1964,11 +1964,7 @@ function processScoresSection(inFileString, sectionTag) {
     // Get tabs
     tabs = findSpIndentForSection(sectionTag, inFileStringMod);
 
-    // Make the overview box
-    scoresOverviewText = getSectionText('scoresOverview');
-    boxTemp = makeTextBox(inFileStringMod, sectionTag, 'Overview', false, 'scoresOverview', true, null);
-    scoreBoxContents = `<p class="infoBoxParaLast">${hyphenTagStart}${scoresOverviewText}${hyphenTagEnd}</p>`;
-    scoreContent += replaceTagWithContent('scoresOverview', boxTemp, scoreBoxContents);
+    // Make dots
     scoreContent += `\n${tabs}<div class="scoreDots centerIt">${interpunct}${interpunct}${interpunct}${interpunct}${interpunct}</div>`;
 
     // Loop through compositions
@@ -2124,6 +2120,7 @@ inputFileString = processEventsShortSection(inputFileString, 'eventsShort');
 //
 // 08 Scores
 //
+inputFileString = processAllTextSection(inputFileString, 'scoresOverview', false);
 inputFileString = processScoresSection(inputFileString, 'scores');
 
 // ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑ //
