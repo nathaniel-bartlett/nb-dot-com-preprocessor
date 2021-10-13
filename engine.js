@@ -1950,7 +1950,6 @@ function processScoresSection(inFileString, sectionTag) {
     var printScoreNumber;
     var contentTabs;
     var outputFileString;
-    var scoresOverviewText;
 
     inFileStringMod = inFileString;
 
