@@ -2104,7 +2104,6 @@ inputFileString = processAllTextSection(inputFileString, 'ssalSubConcertPresenta
 inputFileString = processAllTextSection(inputFileString, 'ssalFMRP', false);
 inputFileString = processFmrpWorksBox(inputFileString, 'ssalSubFMRPWorks', true);
 inputFileString = processAllTextSection(inputFileString, 'ssalGARP', false);
-inputFileString = processAllTextSection(inputFileString, 'ssalDonate', false);
 
 //
 // 06 Photo/Video -- NOTE: photo/video buttons best left in the template
